@@ -1,0 +1,87 @@
+{
+  "frozen_at_utc": "2026-11-16T05:04:47.290901+00:00",
+  "selected_method": "rerank",
+  "baseline": "dense",
+  "selection_rule": [
+    "highest dev Evidence Hit@3",
+    "highest dev Hit@1",
+    "highest dev Context Evidence Rate",
+    "lowest mean dev retrieval latency"
+  ],
+  "top_k": 9,
+  "candidate_k": 30,
+  "rrf_constant": 60,
+  "budget_chars": 4000,
+  "filter_policy": "none for all comparison methods",
+  "identity": {
+    "corpus_sha256": "2008855359d92b64ee842fcf56f6429a64a5ce3c0ba9681f88fe03073139cf82",
+    "chunk_count": 401,
+    "embedding_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+    "embedding_revision": "e8f8c211226b894fcb81acc59f3b34ba3efd5f42",
+    "dimensions": 384,
+    "collection": "day6_b_c7a6473e1d69",
+    "index_signature": "c7a6473e1d692588e72b733a59c01bcfd57cfc14513e74f5fb43894e3b10662e",
+    "underthesea_version": "9.5.0"
+  },
+  "selected_dev_metrics": {
+    "method": "rerank",
+    "requested": 20,
+    "successful": 20,
+    "errors": 0,
+    "answerable_requested": 15,
+    "unanswerable_successful": 5,
+    "unanswerable_requested": 5,
+    "abstention": {
+      "status": "not_evaluated",
+      "reason": "Retrieval returns chunks, not agent answers. A real agent/model and reviewed refusal labels are required."
+    },
+    "top_k": 9,
+    "budget_chars": 4000,
+    "mean_ms": 1132.7996700000028,
+    "service_cost_usd": 0,
+    "hit1": {
+      "n": 13,
+      "N": 15,
+      "rate": 0.8666666666666667
+    },
+    "hit3": {
+      "n": 14,
+      "N": 15,
+      "rate": 0.9333333333333333
+    },
+    "hitk": {
+      "n": 14,
+      "N": 15,
+      "rate": 0.9333333333333333
+    },
+    "context_hit": {
+      "n": 15,
+      "N": 15,
+      "rate": 1.0
+    }
+  },
+  "questions_sha256": "0afbb2f699d29d3f59f37c2095e01d31581225e8c5bbdb89070347901da2baf9",
+  "protocol_sha256": "711345a4fc4edee7919b354661de2080c12ff50da9597922c6880a63326635ae",
+  "dev_summary_sha256": "194f44f293a272ca9914ea60c7b3f86dbeddcf627eb4db6a33213a99a3df0f45",
+  "source_sha256": {
+    "starter/agent_metrics.py": "21a0ea97619ae081e322cc0681b0b47f52ced6766e56d614d41333b5fd934df5",
+    "starter/agentic.py": "580cc573008f2d0e3cc6fd785d40029934648e6e5e333cdbe86f7f7db40e26a6",
+    "starter/baseline.py": "7fde95a039d0949bd9af12c97be640ac70b9c2a6e5373cbc8c5940fadb94c4b5",
+    "starter/build_day7_benchmark.py": "2945f813b23efdda3dca753a003190e4e95952a6333c82675bba97627d1fed5e",
+    "starter/compare_retrieval.py": "f0ba43e4a822b206e2ee658a148315fc379ea2b58cee4efde5984f5bb4a70b43",
+    "starter/convert_day6.py": "a9ed79152d1d05d640524a23b5d73f20c13ad602d3eecdc81a50cf37314f3c50",
+    "starter/day6_retriever.py": "b8ca928c24f444d93e54e87502eff03ffb936426336585151f1ea3bae7e356d2",
+    "starter/dense_retrieval.py": "402221a4da3eb31eaf096ebee4716b8233789f68da9eb145cd4d99d47a1b75b3",
+    "starter/freeze_retrieval.py": "b242ec2e9a1f9f847bcfd21ae4c4b800acdcf5f331d9e79e73aa79844ce0215e",
+    "starter/hybrid_retrieval.py": "9aa8257942f25acbc116980171f604de126c17be628949bbd35b525b402d94a3",
+    "starter/import_day6_assets.py": "f089da24ddb54e9561c17e8134670d180ca4d2cdd7a482a8cb9299d41cb292b4",
+    "starter/lexical_retrieval.py": "1098cc5260ffeda5d6409a842e6756542a4ef95f978430a3437103798e190ce7",
+    "starter/local_embeddings.py": "bc2a5ad88ad0dbb9df07bea7362a734fa5690026f215b31888b731e008f606da",
+    "starter/rerank_retrieval.py": "dc6a1a21070b1c132581e1d3670ceeb0f0a398bb71e9c12bda6c3af92cf55387",
+    "starter/retrieval.py": "849bd99642cc4abeeaec887c3c8afb03ef500a02749c80978ce13b6d8fa94267",
+    "starter/setup_retrieval.py": "e67b653255d3d96021e2ac81939e0ce110961dc670b252afd3ea103f76232c2e"
+  },
+  "test_provenance": "Five answerable test cases reused from Day 6, previously evaluated there; two unanswerable test cases newly authored. Not a wholly new unseen test set.",
+  "agent_model": null,
+  "agent_status": "not_connected; freeze applies to retrieval only"
+}

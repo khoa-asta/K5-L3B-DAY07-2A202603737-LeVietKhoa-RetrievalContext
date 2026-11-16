@@ -1,0 +1,9 @@
+{
+  "PyMuPDF": "1.27.2.3",
+  "Pillow": "12.3.0",
+  "fonttools": "4.68.0",
+  "transformers": "5.23.0",
+  "torch": "2.15.0+cpu",
+  "sentence-transformers": "5.7.0",
+  "chromadb": "1.5.9"
+}

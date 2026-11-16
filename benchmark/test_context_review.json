@@ -1,0 +1,156 @@
+{
+  "reviewer": "Codex",
+  "human_confirmed": false,
+  "review_type": "AI-assisted manual reading of five answerable test contexts per configuration, not human-confirmed and not agent-answer grading",
+  "rubric": {
+    "0": "no evidence",
+    "1": "partial evidence or missing condition/source",
+    "2": "complete evidence with source"
+  },
+  "context_reviews": [
+    {
+      "method": "dense",
+      "query_id": "Q16",
+      "context_grade": 2,
+      "reason": "Full rule and exception for an alternative agreement are present, with source and page.",
+      "evidence_ids": [
+        "1fb541dfb206cde912a7c0f5d2054c4f"
+      ],
+      "trace_sha256": "a15d197f67e7b5ff2eab50fd21e568d4d4bebbb4506db0e2be3a7dcb056314ff"
+    },
+    {
+      "method": "dense",
+      "query_id": "Q17",
+      "context_grade": 2,
+      "reason": "Context contains Article 38 and the equivalence to paper notification, with source and page.",
+      "evidence_ids": [
+        "660a18605acf1b44145fe6bad87826a0"
+      ],
+      "trace_sha256": "a15d197f67e7b5ff2eab50fd21e568d4d4bebbb4506db0e2be3a7dcb056314ff"
+    },
+    {
+      "method": "dense",
+      "query_id": "Q18",
+      "context_grade": 2,
+      "reason": "Context includes both the choice of account and the exception where another law provides otherwise.",
+      "evidence_ids": [
+        "b8c799f595f0bb9d8c06a257e137ac9b"
+      ],
+      "trace_sha256": "a15d197f67e7b5ff2eab50fd21e568d4d4bebbb4506db0e2be3a7dcb056314ff"
+    },
+    {
+      "method": "dense",
+      "query_id": "Q19",
+      "context_grade": 0,
+      "reason": "Read all nine packed chunks: none contains Article 40(2) or the internal-organization registration exception. Related data rules do not establish the answer.",
+      "evidence_ids": [],
+      "trace_sha256": "a15d197f67e7b5ff2eab50fd21e568d4d4bebbb4506db0e2be3a7dcb056314ff"
+    },
+    {
+      "method": "dense",
+      "query_id": "Q20",
+      "context_grade": 2,
+      "reason": "Context explicitly states the same exploitation/use value as original data, with source and page.",
+      "evidence_ids": [
+        "84db240b377d09d64a982ab720bcfb40"
+      ],
+      "trace_sha256": "a15d197f67e7b5ff2eab50fd21e568d4d4bebbb4506db0e2be3a7dcb056314ff"
+    },
+    {
+      "method": "rerank",
+      "query_id": "Q16",
+      "context_grade": 2,
+      "reason": "Full rule and exception for an alternative agreement are present, with source and page.",
+      "evidence_ids": [
+        "1fb541dfb206cde912a7c0f5d2054c4f"
+      ],
+      "trace_sha256": "000744ccd398de4d3200f2b42f097eec760ba3e58aa9e97887623895e45b8fbd"
+    },
+    {
+      "method": "rerank",
+      "query_id": "Q17",
+      "context_grade": 2,
+      "reason": "Context contains Article 38 and the equivalence to paper notification, with source and page.",
+      "evidence_ids": [
+        "660a18605acf1b44145fe6bad87826a0"
+      ],
+      "trace_sha256": "000744ccd398de4d3200f2b42f097eec760ba3e58aa9e97887623895e45b8fbd"
+    },
+    {
+      "method": "rerank",
+      "query_id": "Q18",
+      "context_grade": 2,
+      "reason": "Context includes both the choice of account and the exception where another law provides otherwise.",
+      "evidence_ids": [
+        "b8c799f595f0bb9d8c06a257e137ac9b"
+      ],
+      "trace_sha256": "000744ccd398de4d3200f2b42f097eec760ba3e58aa9e97887623895e45b8fbd"
+    },
+    {
+      "method": "rerank",
+      "query_id": "Q19",
+      "context_grade": 2,
+      "reason": "Context contains Article 40(2), including the internal-organization exception to registration.",
+      "evidence_ids": [
+        "e51d70efb2db2a5bb233fde5a4c486a1"
+      ],
+      "trace_sha256": "000744ccd398de4d3200f2b42f097eec760ba3e58aa9e97887623895e45b8fbd"
+    },
+    {
+      "method": "rerank",
+      "query_id": "Q20",
+      "context_grade": 2,
+      "reason": "Context explicitly states the same exploitation/use value as original data, with source and page.",
+      "evidence_ids": [
+        "84db240b377d09d64a982ab720bcfb40"
+      ],
+      "trace_sha256": "000744ccd398de4d3200f2b42f097eec760ba3e58aa9e97887623895e45b8fbd"
+    }
+  ],
+  "negative_context_reviews": [
+    {
+      "method": "dense",
+      "query_id": "UTEST01",
+      "context_supports_requested_fact": false,
+      "reason": "The fee provision in retrieved text is not a fine schedule. No numeric penalty is established.",
+      "absence_review_id": "UTEST01",
+      "agent_answer_review": "not available; no generative LLM connected"
+    },
+    {
+      "method": "dense",
+      "query_id": "UTEST02",
+      "context_supports_requested_fact": false,
+      "reason": "Retrieved provisions describe data-intermediary services/registration and delegated detail, without the requested form code or full document list.",
+      "absence_review_id": "UTEST02",
+      "agent_answer_review": "not available; no generative LLM connected"
+    },
+    {
+      "method": "rerank",
+      "query_id": "UTEST01",
+      "context_supports_requested_fact": false,
+      "reason": "The fee provision in retrieved text is not a fine schedule. No numeric penalty is established.",
+      "absence_review_id": "UTEST01",
+      "agent_answer_review": "not available; no generative LLM connected"
+    },
+    {
+      "method": "rerank",
+      "query_id": "UTEST02",
+      "context_supports_requested_fact": false,
+      "reason": "Retrieved provisions describe data-intermediary services/registration and delegated detail, without the requested form code or full document list.",
+      "absence_review_id": "UTEST02",
+      "agent_answer_review": "not available; no generative LLM connected"
+    }
+  ],
+  "context_grade_counts": {
+    "dense": {
+      "0": 1,
+      "1": 0,
+      "2": 4
+    },
+    "rerank": {
+      "0": 0,
+      "1": 0,
+      "2": 5
+    }
+  }
+}

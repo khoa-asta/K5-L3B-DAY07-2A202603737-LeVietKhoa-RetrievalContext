@@ -1,0 +1,448 @@
+[
+  {
+    "id": "Q01",
+    "split": "dev",
+    "question": "Theo Luật Giao dịch điện tử, giao dịch điện tử được định nghĩa như thế nào?",
+    "expected_answer": "Giao dịch được thực hiện bằng phương tiện điện tử.",
+    "answerable": true,
+    "gold": [
+      {
+        "source_id": "gddt",
+        "page": 2,
+        "evidence": "1. Giao dịch điện tử là giao dịch được thực hiện bằng phương tiện điện tử."
+      }
+    ],
+    "filter": {
+      "category": "giao_dich_dien_tu"
+    },
+    "filter_provenance": "Explicit named law/topic in question, mapped from document title before retrieval.",
+    "provenance": "Day 6 benchmark, original question/split/evidence retained"
+  },
+  {
+    "id": "Q02",
+    "split": "dev",
+    "question": "Theo Luật Dữ liệu, dữ liệu mở có thể được những ai tiếp cận và sử dụng?",
+    "expected_answer": "Mọi cơ quan, tổ chức, cá nhân có nhu cầu.",
+    "answerable": true,
+    "gold": [
+      {
+        "source_id": "dulieu",
+        "page": 2,
+        "evidence": "4. Dữ li ệu m ở là dữ liệu mà mọi cơ quan, tổ chức, cá nhân có nhu cầu đều được tiếp cận, chia sẻ, khai thác, sử dụng."
+      }
+    ],
+    "filter": {
+      "category": "du_lieu"
+    },
+    "filter_provenance": "Explicit named law/topic in question, mapped from document title before retrieval.",
+    "provenance": "Day 6 benchmark, original question/split/evidence retained"
+  },
+  {
+    "id": "Q03",
+    "split": "dev",
+    "question": "Dấu thời gian gắn với thông điệp dữ liệu có tác dụng gì?",
+    "expected_answer": "Cho phép xác định thông điệp dữ liệu tồn tại ở một thời điểm cụ thể.",
+    "answerable": true,
+    "gold": [
+      {
+        "source_id": "gddt",
+        "page": 3,
+        "evidence": "15. Dấu thời gian là dữ liệu điện tử gắn với thông điệp dữ liệu cho phép xác định thời gian của thông điệp dữ liệu đó tồn tại ở một thời điểm cụ thể."
+      }
+    ],
+    "filter": null,
+    "filter_provenance": null,
+    "provenance": "Day 6 benchmark, original question/split/evidence retained"
+  },
+  {
+    "id": "Q04",
+    "split": "dev",
+    "question": "Có được phủ nhận giá trị pháp lý của thông tin chỉ vì nó ở dạng thông điệp dữ liệu không?",
+    "expected_answer": "Không được phủ nhận chỉ vì hình thức thông điệp dữ liệu.",
+    "answerable": true,
+    "gold": [
+      {
+        "source_id": "gddt",
+        "page": 4,
+        "evidence": "Điều 8. Giá trị pháp lý của thông điệp dữ liệu Thông tin trong thông điệp dữ liệu không bị phủ nhận giá trị pháp lý chỉ vì thông tin đó được thể hiện dưới dạng thông điệp dữ liệu."
+      }
+    ],
+    "filter": null,
+    "filter_provenance": null,
+    "provenance": "Day 6 benchmark, original question/split/evidence retained"
+  },
+  {
+    "id": "Q05",
+    "split": "dev",
+    "question": "Khi pháp luật yêu cầu thông tin bằng văn bản, thông điệp dữ liệu đáp ứng yêu cầu khi nào?",
+    "expected_answer": "Khi thông tin trong đó có thể truy cập và sử dụng để tham chiếu.",
+    "answerable": true,
+    "gold": [
+      {
+        "source_id": "gddt",
+        "page": 5,
+        "evidence": "1. Trường hợp pháp luật yêu cầu thông tin phải được thể hiện bằng văn bản thì thông điệp dữ liệu được xem là đáp ứng yêu cầu nếu thông tin trong thông điệp dữ liệu đó có thể truy cập và sử dụng được để tham chiếu."
+      }
+    ],
+    "filter": null,
+    "filter_provenance": null,
+    "provenance": "Day 6 benchmark, original question/split/evidence retained"
+  },
+  {
+    "id": "Q06",
+    "split": "dev",
+    "question": "Nội dung và thời hạn lưu trữ thông điệp dữ liệu tuân theo quy định nào?",
+    "expected_answer": "Pháp luật về lưu trữ và các quy định pháp luật liên quan; việc lưu trữ có giá trị như văn bản giấy.",
+    "answerable": true,
+    "gold": [
+      {
+        "source_id": "gddt",
+        "page": 6,
+        "evidence": "3. Nội dung, thời hạn lưu trữ đối với thông điệp dữ liệu được thực hiện theo quy định của pháp luật về lưu trữ và quy định khác của pháp luật có liên quan . Việc lưu trữ thông điệp dữ liệu có giá trị như lưu trữ văn bản giấy."
+      }
+    ],
+    "filter": null,
+    "filter_provenance": null,
+    "provenance": "Day 6 benchmark, original question/split/evidence retained"
+  },
+  {
+    "id": "Q07",
+    "split": "dev",
+    "question": "Theo Luật Giao dịch điện tử, dịch vụ tin cậy bao gồm ba loại dịch vụ nào?",
+    "expected_answer": "Cấp dấu thời gian; chứng thực thông điệp dữ liệu; chứng thực chữ ký số công cộng.",
+    "answerable": true,
+    "gold": [
+      {
+        "source_id": "gddt",
+        "page": 14,
+        "evidence": "1. Dịch vụ tin cậy bao gồm:\n\na) Dịch vụ cấp dấu thời gian;\n\nb) Dịch vụ chứng thực thông điệp dữ liệu;\n\nc) Dịch vụ chứng thực chữ ký số công cộng."
+      }
+    ],
+    "filter": {
+      "category": "giao_dich_dien_tu"
+    },
+    "filter_provenance": "Explicit named law/topic in question, mapped from document title before retrieval.",
+    "provenance": "Day 6 benchmark, original question/split/evidence retained",
+    "context_gold_groups": [
+      [
+        {
+          "source_id": "gddt",
+          "page": 14,
+          "evidence": "1. Dịch vụ tin cậy bao gồm:\n\na) Dịch vụ cấp dấu thời gian;\n\nb) Dịch vụ chứng thực thông điệp dữ liệu;"
+        },
+        {
+          "source_id": "gddt",
+          "page": 14,
+          "evidence": "c) Dịch vụ chứng thực chữ ký số công cộng."
+        }
+      ]
+    ],
+    "context_scoring_note": "Both fragments are required; strict ranking metrics still use the original full single-chunk gold."
+  },
+  {
+    "id": "Q08",
+    "split": "dev",
+    "question": "Giấy phép kinh doanh dịch vụ tin cậy có thời hạn bao nhiêu năm?",
+    "expected_answer": "10 năm.",
+    "answerable": true,
+    "gold": [
+      {
+        "source_id": "gddt",
+        "page": 14,
+        "evidence": "Thời hạn của giấy phép kinh doanh dịch vụ tin cậy là 10 năm."
+      }
+    ],
+    "filter": null,
+    "filter_provenance": null,
+    "provenance": "Day 6 benchmark, original question/split/evidence retained"
+  },
+  {
+    "id": "Q09",
+    "split": "dev",
+    "question": "Chủ thể dữ liệu là ai?",
+    "expected_answer": "Cơ quan, tổ chức, cá nhân được dữ liệu phản ánh.",
+    "answerable": true,
+    "gold": [
+      {
+        "source_id": "dulieu",
+        "page": 2,
+        "evidence": "12. Chủ thể dữ liệu là cơ quan, tổ chức, cá nhân được dữ liệu phản ánh."
+      }
+    ],
+    "filter": null,
+    "filter_provenance": null,
+    "provenance": "Day 6 benchmark, original question/split/evidence retained"
+  },
+  {
+    "id": "Q10",
+    "split": "dev",
+    "question": "Theo Luật Dữ liệu, bảo đảm chất lượng dữ liệu bao gồm những thuộc tính nào?",
+    "expected_answer": "Chính xác, hợp lệ, toàn vẹn, đầy đủ, cập nhật kịp thời, thống nhất.",
+    "answerable": true,
+    "gold": [
+      {
+        "source_id": "dulieu",
+        "page": 7,
+        "evidence": "1. Bảo đảm chất lượng dữ liệu là bảo đảm tính chính xác, hợp lệ, toàn vẹn, đầy đủ, cập nhật kịp thời, thống nhất của dữ liệu."
+      }
+    ],
+    "filter": {
+      "category": "du_lieu"
+    },
+    "filter_provenance": "Explicit named law/topic in question, mapped from document title before retrieval.",
+    "provenance": "Day 6 benchmark, original question/split/evidence retained"
+  },
+  {
+    "id": "Q11",
+    "split": "dev",
+    "question": "Nếu dữ liệu đã có trong các cơ sở dữ liệu được kết nối và chia sẻ thì có thu thập lại không?",
+    "expected_answer": "Không thu thập lại.",
+    "answerable": true,
+    "gold": [
+      {
+        "source_id": "dulieu",
+        "page": 6,
+        "evidence": "b) Dữ liệu có trong các cơ sở dữ liệu được kết nối, chia sẻ thì không thu thập lại;"
+      }
+    ],
+    "filter": null,
+    "filter_provenance": null,
+    "provenance": "Day 6 benchmark, original question/split/evidence retained"
+  },
+  {
+    "id": "Q12",
+    "split": "dev",
+    "question": "Việc truy cập, truy xuất dữ liệu phải đáp ứng các yêu cầu gì?",
+    "expected_answer": "Tuân thủ quy định, quy trình kỹ thuật; bảo đảm an ninh, an toàn và đúng mục đích.",
+    "answerable": true,
+    "gold": [
+      {
+        "source_id": "dulieu",
+        "page": 9,
+        "evidence": "1. Việc truy cập, truy xuất dữ liệu phải tuân thủ quy định, quy trình kỹ thuật về truy cập, truy xuất dữ liệu; bảo đảm an ninh, an toàn và đúng mục đích."
+      }
+    ],
+    "filter": null,
+    "filter_provenance": null,
+    "provenance": "Day 6 benchmark, original question/split/evidence retained"
+  },
+  {
+    "id": "Q13",
+    "split": "dev",
+    "question": "Ai quyết định chia sẻ dữ liệu dùng riêng do Bộ hoặc UBND cấp tỉnh quản lý trong tình huống đột xuất, cấp bách?",
+    "expected_answer": "Thủ tướng Chính phủ; trong phòng chống thiên tai, dịch bệnh, cháy nổ hoặc trường hợp cần thiết khác để giải quyết vấn đề thực tiễn.",
+    "answerable": true,
+    "gold": [
+      {
+        "source_id": "dulieu",
+        "page": 9,
+        "evidence": "3. Thủ tướng Chính phủ quyết định việc chia sẻ dữ liệu dùng riê ng do các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân cấp tỉnh quản lý trong trường hợp đột xuất, cấp bách trong phòng, chống thiên ta i, dịch bệnh, cháy, nổ hoặc trường hợp cần thiết khác để giải quyết những vấn đề phát sinh trong thực tiễn."
+      }
+    ],
+    "filter": null,
+    "filter_provenance": null,
+    "provenance": "Day 6 benchmark, original question/split/evidence retained"
+  },
+  {
+    "id": "Q14",
+    "split": "dev",
+    "question": "Luật Dữ liệu nêu những nhóm rủi ro nào có thể phát sinh khi xử lý dữ liệu?",
+    "expected_answer": "Quyền riêng tư, an ninh mạng, nhận dạng và quản lý truy cập, cùng các rủi ro khác.",
+    "answerable": true,
+    "gold": [
+      {
+        "source_id": "dulieu",
+        "page": 13,
+        "evidence": "1. Rủi ro phát sinh trong xử lý dữ liệu bao gồm: rủi ro quyền r iêng tư, rủi ro an ninh mạng, rủi ro nhận dạng và quản lý truy cập, rủi ro khác trong xử lý dữ liệu."
+      }
+    ],
+    "filter": null,
+    "filter_provenance": null,
+    "provenance": "Day 6 benchmark, original question/split/evidence retained"
+  },
+  {
+    "id": "Q15",
+    "split": "dev",
+    "question": "Chủ thể dữ liệu có quyền yêu cầu thu hồi, xóa hoặc hủy dữ liệu đã cung cấp không, và có ngoại lệ nào?",
+    "expected_answer": "Có, trừ trường hợp pháp luật có quy định khác; chủ quản phải thiết lập quy trình và biện pháp thực hiện yêu cầu.",
+    "answerable": true,
+    "gold": [
+      {
+        "source_id": "dulieu",
+        "page": 13,
+        "evidence": "1. Chủ thể dữ liệu có quyền yêu cầu chủ sở hữu dữ liệu, chủ quả n dữ liệu thu hồi, xóa hoặc hủy dữ liệu của mì nh đã cung cấp, t rừ trường hợp pháp luật có quy định khác. Chủ quản dữ liệu có t rách nhiệm thiết lập quy trình, triển khai các biện pháp, phương thức thu hồi, xóa hoặc hủy dữ liệu theo yêu cầu của chủ thể dữ liệu."
+      }
+    ],
+    "filter": null,
+    "filter_provenance": null,
+    "provenance": "Day 6 benchmark, original question/split/evidence retained"
+  },
+  {
+    "id": "Q16",
+    "split": "test",
+    "question": "Theo Luật Giao dịch điện tử, đề nghị và chấp nhận giao kết hợp đồng có luôn bắt buộc qua thông điệp dữ liệu không?",
+    "expected_answer": "Thông thường qua thông điệp dữ liệu, trừ khi các bên có thỏa thuận khác.",
+    "answerable": true,
+    "gold": [
+      {
+        "source_id": "gddt",
+        "page": 17,
+        "evidence": "2. Đề nghị giao kết và chấp nhận giao kết hợp đồng điện tử được thực hiện thông qua thông điệp dữ liệu, trừ trường hợp các bên có thỏa thuận khác."
+      }
+    ],
+    "filter": {
+      "category": "giao_dich_dien_tu"
+    },
+    "filter_provenance": "Explicit named law/topic in question, mapped from document title before retrieval.",
+    "provenance": "Day 6 benchmark, original question/split/evidence retained"
+  },
+  {
+    "id": "Q17",
+    "split": "test",
+    "question": "Thông báo bằng thông điệp dữ liệu trong giao kết và thực hiện hợp đồng điện tử có giá trị so với văn bản giấy như thế nào?",
+    "expected_answer": "Có giá trị pháp lý như thông báo bằng văn bản giấy.",
+    "answerable": true,
+    "gold": [
+      {
+        "source_id": "gddt",
+        "page": 17,
+        "evidence": "Điều 38. Giá trị pháp lý của thông báo trong giao kết và thực hiện hợp đồng điện tử Trong giao kết và thực hiện hợp đồng điện tử, thông báo dưới dạng thông điệp dữ liệu có giá trị pháp lý như thông báo bằng văn bản giấy."
+      }
+    ],
+    "filter": null,
+    "filter_provenance": null,
+    "provenance": "Day 6 benchmark, original question/split/evidence retained"
+  },
+  {
+    "id": "Q18",
+    "split": "test",
+    "question": "Người dùng có quyền chọn tài khoản giao dịch điện tử phù hợp nhu cầu không? Nêu ngoại lệ.",
+    "expected_answer": "Có, trừ trường hợp pháp luật có quy định khác.",
+    "answerable": true,
+    "gold": [
+      {
+        "source_id": "gddt",
+        "page": 22,
+        "evidence": "3. Cơ quan, tổ chức, cá nhân có quyền lựa chọn sử dụng tài khoản giao dịch điện tử phù hợp với nhu cầu, trừ trường hợp pháp luật có quy định khác."
+      }
+    ],
+    "filter": null,
+    "filter_provenance": null,
+    "provenance": "Day 6 benchmark, original question/split/evidence retained"
+  },
+  {
+    "id": "Q19",
+    "split": "test",
+    "question": "Theo Luật Dữ liệu, trường hợp nào cung cấp dịch vụ trung gian dữ liệu được trừ khỏi yêu cầu đăng ký hoạt động nêu tại Điều 40?",
+    "expected_answer": "Cung cấp sản phẩm, dịch vụ trung gian dữ liệu trong nội bộ tổ chức.",
+    "answerable": true,
+    "gold": [
+      {
+        "source_id": "dulieu",
+        "page": 21,
+        "evidence": "2. Tổ chức cung cấp sản phẩm, dịch vụ trung gian dữ liệu phải đ ược đăng ký hoạt động và quản lý the o quy định của pháp luật về đầu tư; trừ trường hợp cung cấp sản phẩm, dịch vụ trung gian dữ liệu trong nội bộ tổ chức."
+      }
+    ],
+    "filter": {
+      "category": "du_lieu"
+    },
+    "filter_provenance": "Explicit named law/topic in question, mapped from document title before retrieval.",
+    "provenance": "Day 6 benchmark, original question/split/evidence retained"
+  },
+  {
+    "id": "Q20",
+    "split": "test",
+    "question": "Theo Luật Dữ liệu, dữ liệu trong Cơ sở dữ liệu tổng hợp quốc gia có giá trị khai thác và sử dụng như thế nào?",
+    "expected_answer": "Có giá trị khai thác và sử dụng như dữ liệu gốc.",
+    "answerable": true,
+    "gold": [
+      {
+        "source_id": "dulieu",
+        "page": 19,
+        "evidence": "2. Dữ liệu trong Cơ sở dữ liệu tổng hợp quốc gia có giá trị kha i thác và sử dụng như dữ liệu gốc."
+      }
+    ],
+    "filter": {
+      "category": "du_lieu"
+    },
+    "filter_provenance": "Explicit named law/topic in question, mapped from document title before retrieval.",
+    "provenance": "Day 6 benchmark, original question/split/evidence retained"
+  },
+  {
+    "id": "UDEV01",
+    "split": "dev",
+    "question": "Lệ phí cấp mới giấy phép kinh doanh dịch vụ tin cậy là bao nhiêu đồng?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Thiếu mức tiền cụ thể; quy định về cấp phép, công khai chi phí và dẫn chiếu pháp luật phí không cung cấp biểu lệ phí cấp mới.",
+    "absence_review_id": "UDEV01",
+    "filter": null,
+    "provenance": "Day 7 added near-domain unanswerable case; Codex review, not human-confirmed"
+  },
+  {
+    "id": "UDEV02",
+    "split": "dev",
+    "question": "Chữ ký số theo Luật Giao dịch điện tử bắt buộc dùng khóa RSA tối thiểu bao nhiêu bit?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Có định nghĩa chữ ký số và yêu cầu an toàn/tiêu chuẩn, nhưng không có tham số RSA hoặc độ dài khóa tối thiểu.",
+    "absence_review_id": "UDEV02",
+    "filter": null,
+    "provenance": "Day 7 added near-domain unanswerable case; Codex review, not human-confirmed"
+  },
+  {
+    "id": "UDEV03",
+    "split": "dev",
+    "question": "Đường dẫn URL API cụ thể để kết nối Cơ sở dữ liệu tổng hợp quốc gia là gì?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Các điều về kết nối, chia sẻ và khai thác quy định nguyên tắc/thẩm quyền; không có tài liệu endpoint hoặc URL triển khai API.",
+    "absence_review_id": "UDEV03",
+    "filter": null,
+    "provenance": "Day 7 added near-domain unanswerable case; Codex review, not human-confirmed"
+  },
+  {
+    "id": "UDEV04",
+    "split": "dev",
+    "question": "Tính đến ngày 16/11/2026, có bao nhiêu tổ chức đang được cấp phép kinh doanh dịch vụ tin cậy tại Việt Nam?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Luật quy định điều kiện, trách nhiệm và chế độ báo cáo, không chứa danh sách/số liệu tổ chức được cấp phép tại ngày được hỏi.",
+    "absence_review_id": "UDEV04",
+    "filter": null,
+    "provenance": "Day 7 added near-domain unanswerable case; Codex review, not human-confirmed"
+  },
+  {
+    "id": "UDEV05",
+    "split": "dev",
+    "question": "Số điện thoại đường dây nóng và email tiếp nhận báo cáo sự cố dữ liệu của Trung tâm dữ liệu quốc gia là gì?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Các điều về trách nhiệm, bảo vệ dữ liệu và kênh tiếp nhận không cung cấp số hotline hoặc địa chỉ email liên hệ thực tế.",
+    "absence_review_id": "UDEV05",
+    "filter": null,
+    "provenance": "Day 7 added near-domain unanswerable case; Codex review, not human-confirmed"
+  },
+  {
+    "id": "UTEST01",
+    "split": "test",
+    "question": "Cá nhân mua bán dữ liệu trái pháp luật bị phạt tiền cụ thể bao nhiêu đồng theo bộ tài liệu này?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Luật nêu hành vi bị nghiêm cấm và quản lý/xử lý vi phạm, không có khung tiền phạt cụ thể cho tình huống này.",
+    "absence_review_id": "UTEST01",
+    "filter": null,
+    "provenance": "Day 7 added near-domain unanswerable case; Codex review, not human-confirmed"
+  },
+  {
+    "id": "UTEST02",
+    "split": "test",
+    "question": "Mã mẫu đơn và danh mục giấy tờ cụ thể để đăng ký cung cấp dịch vụ trung gian dữ liệu là gì?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Điều 40 nêu yêu cầu đăng ký và giao Chính phủ quy định chi tiết; corpus không có mẫu đơn hoặc danh mục hồ sơ thực hiện thủ tục.",
+    "absence_review_id": "UTEST02",
+    "filter": null,
+    "provenance": "Day 7 added near-domain unanswerable case; Codex review, not human-confirmed"
+  }
+]

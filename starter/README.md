@@ -1,13 +1,28 @@
 # Starter Day 7
 
+Đã có **giao diện web local**: từ thư mục gốc chạy `& .\.venv\Scripts\python.exe -B -m demo.server`, mở http://127.0.0.1:8765. Xem [hướng dẫn demo](../docs/DEMO_WEB.md). Giao diện dùng worker tách model và một tác vụ tại một thời điểm cho máy hiện tại; các lệnh benchmark bên dưới là cấu hình thực nghiệm cũ.
+
+Runtime hiện độc lập trong Day 7: xem [model, Chroma và môi trường local](LOCAL_RUNTIME.md). Trên Windows, chạy bằng `& ./.venv/Scripts/python.exe -B ...` thay cho lệnh `python3` nếu máy đang dùng alias Microsoft Store.
+
+Benchmark hiện có 20 dev và 7 test, đã chạy dev, chốt cấu hình rồi chạy Dense + rerank trên test. Xem [kết quả mới](../docs/BENCHMARK_DAY7_RESULTS.md), [câu hỏi và protocol](../benchmark/README.md). Phần trả lời/citation/abstention của agent vẫn cần LLM riêng.
+
 | File | Công dụng |
 |---|---|
 | `agentic.py` | Khung agent ví dụ với số lượt search, top-k và context budget có thể cấu hình |
 | `baseline.py` | TF-IDF lexical baseline, chạy offline |
 | `convert_day6.py` | Chuyển một số trường JSON từ Day 6 |
+| `day6_retriever.py` | Adapter dense retrieval dùng model local và bản sao Chroma Day 6; xem [cách chạy](DAY6_CONNECTION.md) |
+| `dense_retrieval.py` | Dense Day 7: mặc định top-9, metadata filter category và lưu trace; xem [cách chạy](DENSE_RETRIEVAL.md) |
+| `retrieval.py` | Chạy Dense, TF-IDF âm tiết/tách từ, Hybrid RRF, Hybrid + CrossEncoder rerank |
+| `compare_retrieval.py` | Benchmark một split, so sánh ảnh hưởng tách từ và lưu trace |
+| `setup_retrieval.py` | Tạo `.venv` Day 7, cài Underthesea và tải model reranker local |
+| `import_day6_assets.py` | Import model embedding, Chroma và tài liệu vào Day 7; có thể sao chép thư viện để gỡ phụ thuộc môi trường Day 6 |
+| `local_embeddings.py` | Embedding local tại Day 7, giữ model/revision/normalization Day 6 |
+| `build_day7_benchmark.py` | Tạo benchmark 20 dev / 7 test và hồ sơ rà soát thiếu evidence |
+| `freeze_retrieval.py` | Chọn bằng dev và chốt cấu hình/hash nguồn trước test |
 | `agent_metrics.py` | Tổng hợp nhãn đánh giá do bạn tự chấm |
 
-Starter **chưa phải solution hoàn chỉnh**. Bạn phải nối model và vector store thật, triển khai ít nhất 3 phương pháp retrieval do bạn chọn, gồm dense trên vector store Day 6. Mock chỉ dùng để test code.
+Dense, Lexical, Hybrid và Retrieval + Rerank đã có; xem [hướng dẫn các phương pháp](RETRIEVAL_METHODS.md) và [kết quả dev](../docs/RETRIEVAL_DEV_RESULTS.md). Dùng `.venv` Day 7 cho Underthesea và reranker. Bạn cần hoàn thiện benchmark Day 7 và nối controller với model thật để hoàn thành agent. Mock chỉ dùng để test code.
 
 ## 1. Kết nối agent
 

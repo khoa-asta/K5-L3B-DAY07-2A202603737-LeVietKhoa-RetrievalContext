@@ -1,0 +1,11 @@
+# Standalone Day 7 runtime. Existing local packages can be copied with import_day6_assets.py.
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.15.0+cpu
+sentence-transformers==5.7.0
+transformers==5.23.0
+chromadb==1.5.9
+numpy==2.5.4
+scikit-learn==1.9.1
+pypdf==6.21.4
+underthesea==9.5.0
+underthesea_core==3.3.2

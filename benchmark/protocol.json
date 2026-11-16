@@ -1,0 +1,26 @@
+{
+  "baseline": "dense",
+  "dev_methods": [
+    "dense",
+    "tfidf-syllable",
+    "tfidf-word",
+    "hybrid",
+    "rerank"
+  ],
+  "top_k": 9,
+  "candidate_k": 30,
+  "rrf_constant": 60,
+  "budget_chars": 4000,
+  "filter_policy": "none for all comparison methods",
+  "selection_rule": [
+    "highest dev Evidence Hit@3",
+    "highest dev Hit@1",
+    "highest dev Context Evidence Rate",
+    "lowest mean dev retrieval latency"
+  ],
+  "ranking_metric": "strict full single-chunk gold as Day 6",
+  "context_metric": "any alternative full evidence; when context_gold_groups is specified, all fragments in one alternative group must be supported",
+  "unanswerable_policy": "exclude from retrieval/context denominators; measure abstention only from actual agent answers with separate review labels",
+  "test_policy": "freeze chosen method/config/source hashes before test; run baseline + selected only; do not tune using test results",
+  "test_provenance": "Five answerable test cases reused from Day 6, previously evaluated there; two unanswerable test cases newly authored. Not a wholly new unseen test set."
+}

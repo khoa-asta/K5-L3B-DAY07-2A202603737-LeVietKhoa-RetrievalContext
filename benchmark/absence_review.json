@@ -1,0 +1,2155 @@
+{
+  "source_pages_sha256": "35576c54e6c2ff37bb6e272b39781a2a773a8042dcb6a6d788df5d68eb44cfa1",
+  "original_questions_sha256": "3975ccd6b925bf61df187b3c4086a8d000ff97d17adf6c4edeefa0cb572bd01b",
+  "reviews": [
+    {
+      "id": "UDEV01",
+      "reviewer": "Codex",
+      "human_confirmed": false,
+      "scope": [
+        {
+          "source_id": "dulieu",
+          "page": 1
+        },
+        {
+          "source_id": "dulieu",
+          "page": 2
+        },
+        {
+          "source_id": "dulieu",
+          "page": 3
+        },
+        {
+          "source_id": "dulieu",
+          "page": 4
+        },
+        {
+          "source_id": "dulieu",
+          "page": 5
+        },
+        {
+          "source_id": "dulieu",
+          "page": 6
+        },
+        {
+          "source_id": "dulieu",
+          "page": 7
+        },
+        {
+          "source_id": "dulieu",
+          "page": 8
+        },
+        {
+          "source_id": "dulieu",
+          "page": 9
+        },
+        {
+          "source_id": "dulieu",
+          "page": 10
+        },
+        {
+          "source_id": "dulieu",
+          "page": 11
+        },
+        {
+          "source_id": "dulieu",
+          "page": 12
+        },
+        {
+          "source_id": "dulieu",
+          "page": 13
+        },
+        {
+          "source_id": "dulieu",
+          "page": 14
+        },
+        {
+          "source_id": "dulieu",
+          "page": 15
+        },
+        {
+          "source_id": "dulieu",
+          "page": 16
+        },
+        {
+          "source_id": "dulieu",
+          "page": 17
+        },
+        {
+          "source_id": "dulieu",
+          "page": 18
+        },
+        {
+          "source_id": "dulieu",
+          "page": 19
+        },
+        {
+          "source_id": "dulieu",
+          "page": 20
+        },
+        {
+          "source_id": "dulieu",
+          "page": 21
+        },
+        {
+          "source_id": "dulieu",
+          "page": 22
+        },
+        {
+          "source_id": "dulieu",
+          "page": 23
+        },
+        {
+          "source_id": "gddt",
+          "page": 1
+        },
+        {
+          "source_id": "gddt",
+          "page": 2
+        },
+        {
+          "source_id": "gddt",
+          "page": 3
+        },
+        {
+          "source_id": "gddt",
+          "page": 4
+        },
+        {
+          "source_id": "gddt",
+          "page": 5
+        },
+        {
+          "source_id": "gddt",
+          "page": 6
+        },
+        {
+          "source_id": "gddt",
+          "page": 7
+        },
+        {
+          "source_id": "gddt",
+          "page": 8
+        },
+        {
+          "source_id": "gddt",
+          "page": 9
+        },
+        {
+          "source_id": "gddt",
+          "page": 10
+        },
+        {
+          "source_id": "gddt",
+          "page": 11
+        },
+        {
+          "source_id": "gddt",
+          "page": 12
+        },
+        {
+          "source_id": "gddt",
+          "page": 13
+        },
+        {
+          "source_id": "gddt",
+          "page": 14
+        },
+        {
+          "source_id": "gddt",
+          "page": 15
+        },
+        {
+          "source_id": "gddt",
+          "page": 16
+        },
+        {
+          "source_id": "gddt",
+          "page": 17
+        },
+        {
+          "source_id": "gddt",
+          "page": 18
+        },
+        {
+          "source_id": "gddt",
+          "page": 19
+        },
+        {
+          "source_id": "gddt",
+          "page": 20
+        },
+        {
+          "source_id": "gddt",
+          "page": 21
+        },
+        {
+          "source_id": "gddt",
+          "page": 22
+        },
+        {
+          "source_id": "gddt",
+          "page": 23
+        },
+        {
+          "source_id": "gddt",
+          "page": 24
+        },
+        {
+          "source_id": "gddt",
+          "page": 25
+        },
+        {
+          "source_id": "gddt",
+          "page": 26
+        }
+      ],
+      "page_count": 49,
+      "method": "Scanned all indexed page texts and document article coverage; read related provisions semantically. Keyword matches are navigation evidence, not the sole basis for absence.",
+      "absence_reason": "Thiếu mức tiền cụ thể; quy định về cấp phép, công khai chi phí và dẫn chiếu pháp luật phí không cung cấp biểu lệ phí cấp mới.",
+      "keyword_scan": [
+        {
+          "term": "lệ phí",
+          "matching_pages": [
+            {
+              "source_id": "gddt",
+              "page": 15
+            },
+            {
+              "source_id": "gddt",
+              "page": 25
+            },
+            {
+              "source_id": "dulieu",
+              "page": 20
+            },
+            {
+              "source_id": "dulieu",
+              "page": 22
+            }
+          ]
+        },
+        {
+          "term": "chi phí",
+          "matching_pages": [
+            {
+              "source_id": "gddt",
+              "page": 15
+            }
+          ]
+        },
+        {
+          "term": "giấy phép",
+          "matching_pages": [
+            {
+              "source_id": "gddt",
+              "page": 2
+            },
+            {
+              "source_id": "gddt",
+              "page": 5
+            },
+            {
+              "source_id": "gddt",
+              "page": 14
+            },
+            {
+              "source_id": "gddt",
+              "page": 26
+            }
+          ]
+        }
+      ],
+      "related_pages_reviewed": [
+        {
+          "source_id": "gddt",
+          "page": 14,
+          "text": "tổ chức cung cấp dịch vụ chứng thực chữ ký điện tử nước ngoài tại Việt Nam ; công nhận chữ ký điện tử nước ngoài, chứng thư chữ ký điện tử nước ngoài tại Việt Nam.\n\nĐiều 27. Chữ ký điện tử nước ngoài, c hứng thư chữ ký điện tử nước ngoài được chấp nhận trong giao dịch quốc tế\n\n1. Chữ ký điện tử nước ngoài, chứng thư chữ ký điện tử nước ngoài được chấp nhận trong giao dịch quốc tế là chữ ký điện tử nước ngoài, chứng thư chữ ký điện tử nước ngoài của tổ chức, cá nhân nước ngoài không hiện diện tại Việt Nam, có hiệu lực trên thông điệp dữ liệu gửi đến tổ chức, cá nhân Việt Nam.\n\n2. Tổ chức, cá nhân lựa chọn và chịu trách nhiệm về việc chấp nhận chữ ký điện tử nước ngoài, chứng thư chữ ký điện tử nước ngoài trên thông điệp dữ liệu trong giao dịch quốc tế.\n\nMục 2 DỊCH VỤ TIN CẬY\n\nĐiều 28. Dịch vụ tin cậy\n\n1. Dịch vụ tin cậy bao gồm:\n\na) Dịch vụ cấp dấu thời gian;\n\nb) Dịch vụ chứng thực thông điệp dữ liệu;\n\nc) Dịch vụ chứng thực chữ ký số công cộng.\n\n2. Dịch vụ tin cậy là ngành, nghề đầu tư kinh doanh có điều kiện.\n\n3. Tổ chức cung cấp dịch vụ tin cậy phải có giấy phép kinh doanh dịch vụ do Bộ Thông tin và Truyền thông cấp, trừ dịch vụ chứng thực hợp đồng điện tử trong thương mại. Tổ chức được quyền đăng ký một hoặc các dịch vụ quy định tại khoản 1 Điều này. Thời hạn của giấy phép kinh doanh dịch vụ tin cậy là 10 năm. Tổ chức cung cấp dịch vụ chứng thực hợp đồng điện tử trong thương mại phải đáp ứng điều kiện hoạt động cung cấp dịch vụ chứng thực hợp đồng điện tử theo quy định của pháp luật về thương mại điện tử và điều kiện kinh doanh dịch vụ tin cậy theo quy định tại Điều 29 của Luật này.\n\n4. Chính phủ quy định chi tiết hoạt động của tổ chức cung cấp dịch vụ tin cậy; quy trình, thủ tục, hồ sơ cấp, gia hạn, thay đổi, cấp lại, tạm đình chỉ, thu hồi giấy phép kinh doanh dịch vụ tin cậy và các nội dung khác quy định tại Điều này.\n\nĐiều 29. Điều kiện kinh doanh dịch vụ tin cậy\n\n1. Điều kiện kinh doanh dịch vụ tin cậy bao gồm:\n\na) Là doanh nghiệp được thành lập và hoạt động hợp pháp trên lãnh thổ Việt Nam;\n\nb) Đáp ứng điều kiện tài chính, nhân lực quản lý và kỹ thuật phù hợp với từng loại dịch vụ tin cậy quy định tại khoản 1 Điều 28 của Luật này;"
+        },
+        {
+          "source_id": "gddt",
+          "page": 15,
+          "text": "c) Hệ thống thông tin cung cấp dịch vụ tin cậy đáp ứng yêu cầu bảo đảm an ninh mạng7 tối thiểu cấp độ 3 theo quy định của pháp luật về an toàn thông tin mạng;\n\nd) Có phương án kỹ thuật phục vụ hoạt động cung cấp dịch vụ phù hợp với từng loại dịch vụ tin cậy quy định tại khoản 1 Điều 28 của Luật này;\n\nđ) Có phương án sẵn sàng kết nối kỹ thuật phục vụ giám sát, kiểm tra, báo cáo số liệu bằng phương tiện điện tử đáp ứng yêu cầu quản lý nhà nước về dịch vụ tin cậy.\n\n2. Chính phủ quy định chi tiết khoản 1 Điều này.\n\nĐiều 30. Trách nhiệm của tổ chức cung cấp dịch vụ tin cậy\n\n1. Công bố công khai quy trình đăng ký sử dụng dịch vụ, biểu mẫu và chi phí liên quan.\n\n2. Bảo đảm kênh tiếp nhận thông tin và cung cấp dịch vụ liên tục 24 giờ trong ngày và 07 ngày trong tuần.\n\n3. Thực hiện chế độ lưu trữ hồ sơ, tài liệu và kết nối, cung cấp thông tin, số liệu báo cáo bằng phương tiện điện tử theo quy định của pháp luật.\n\n4. Bảo đảm trang thiết bị trong hệ thống thông tin được cấp mã quản lý, sẵn sàng kết nối kỹ thuật phục vụ công tác quản lý nhà nước về dịch vụ tin cậy.\n\n5. Thực hiện biện pháp nghiệp vụ, tạm dừng, chấm dứt cung cấp dịch vụ hoặc biện pháp nghiệp vụ khác theo yêu cầu của cơ quan có thẩm quyền theo quy định của pháp luật.\n\n6. Thực hiện trách nhiệm của chủ quản hệ thống thông tin phục vụ cung cấp dịch vụ tin cậy đáp ứng yêu cầu bảo đảm an ninh mạng8 tối thiểu cấp độ 3 theo quy định của pháp luật về an toàn thông tin mạng.\n\n7. Định kỳ hằng năm , báo cáo về hoạt động cung cấp dịch vụ tin cậy theo quy định của cơ quan có thẩm quyền.\n\n8. Nộp phí dịch vụ duy trì hệ thống kiểm tra trạng thái chứng thư chữ ký số theo quy định của pháp luật về phí và lệ phí.\n\nĐiều 31. Dịch vụ cấp dấu thời gian\n\n1. Dịch vụ cấp dấu thời gian là dịch vụ để gắn thông tin về thời gian vào thông điệp dữ liệu.\n\n2. Dấu thời gian được tạo ra dưới dạng chữ ký số.\n\n7 Cụm từ “an toàn thông tin mạng” được thay thế bằng cụm từ “an ninh mạng” theo quy định tại điểm c khoản 8 Điều 43 của Luật An ninh mạng số 116/2025/QH15, có hiệu lực kể từ ngày 01 tháng 7 năm 2026. 8 Cụm từ “an toàn thông tin mạng” được thay thế bằng cụm từ “an ninh mạng” theo quy định tại điểm c khoản 8 Điều 43 của Luật An ninh mạng số 116/2025/QH15, có hiệu lực kể từ ngày 01 tháng 7 năm 2026."
+        },
+        {
+          "source_id": "gddt",
+          "page": 25,
+          "text": "Chương VIII ĐIỀU KHOẢN THI HÀNH17\n\nĐiều 51. Sửa đổi, bổ sung , thay thế, bãi bỏ một số điều của các luật có liên quan\n\n1. Sửa đổi, bổ sung mục 119 thuộc Phụ lục IV - Danh mục ngành, nghề đầu tư kinh doanh có điều kiện ban hành kèm theo Luật Đầu tư số 61/2020/QH14 đã được sửa đổi, bổ sung một số điều theo Luật số 72/2020/QH14, Luật số 03/2022/QH15, Luật số 05/2022/QH15, Luật số 08/2022/QH15 và Luật số 09/2022/QH15 như sau: 119 Kinh doanh dịch vụ tin cậy\n\n2. Sửa đổi, bổ sung mục 7 thuộc Phần VI - Phí thuộc lĩnh vực thông tin và truyền thông trong Danh mục Phí, lệ phí ban hành kèm theo Luật Phí và lệ phí số 97/2015/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 09/2017/QH14, Luật số 23/2018/QH14 , Luật số 72/2020/QH14 và Luật số 16/2023/QH15 như sau: 7 Phí dịch vụ duy trì hệ thống kiểm tra trạng thái chứng thư chữ ký số Bộ Tài chính\n\n3. Thay thế cụm từ “hệ thống chứng thực chữ ký số chuyên dùng” bằng cụm từ “hệ thống chứng thực chữ ký số chuyên dùng công vụ” tại khoản 3 Điều 19 của Luật Tổ chức Chính phủ số 76/2015/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 47/2019/QH14.\n\n17 Điều 45 của Luật Dữ liệu số 6 0/2024/QH15, có hiệu lực kể từ ngày 01 tháng 7 năm 2025 quy định như sau: “Điều 45. Hiệu lực thi hành Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2025.”. Điều 44 của Luật An ninh mạng số 116/2025/QH15, có hiệu lực kể từ ngày 01 tháng 7 năm 2026 quy định như sau: “Điều 44. Hiệu lực thi hành\n\n1. Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2026.\n\n2. Luật An toàn thông tin mạng số 86/2015/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 35/2018/QH14; Luật An ninh mạng số 24/2018/QH14 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành.”. Điều 47 của Luật Chuyển đổi số số 148/2025/QH15, có hiệu lực kể từ ngày 01 tháng 7 năm 2026 quy định như sau: “Điều 47. Hiệu lực thi hành\n\n1. Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2026.\n\n2. Luật Công nghệ thông tin số 67/2006/QH11 đã được sửa đổi, bổ sung một số điều theo Luật số 21/2017/QH14, Luật số 20/2023/QH15, Luật số 24/2023/QH15, Luật số 71/2025/QH15 và Luật số 84/2025/QH15 (sau đây gọi là Luật Công nghệ thông tin số 67/2006/QH11) hết hiệu kể từ ngày Luật này có hiệu lực thi hành, trừ trường hợp quy định tại khoản 1 và khoản 2 Điều 48 của Luật này.”."
+        },
+        {
+          "source_id": "dulieu",
+          "page": 20,
+          "text": "gia; nền tảng tích hợp, chia sẻ dữ liệu cấp bộ, cấp tỉnh, mạng Internet, mạng máy tính, hệ thống thông tin.\n\n2. Việc kết nối, chia sẻ dữ liệu giữa Cơ sở dữ liệu tổng hợp qu ốc gia và các cơ sở dữ liệu khác phải bảo đảm hiệu quả, an toàn, phù hợp với chứ c năng, nhiệm vụ, quyền hạn của cơ quan, tổ chức, cá nhân theo quy định của pháp luật.\n\n3. Việc kết nối, chia sẻ dữ liệu giữa Cơ sở dữ liệu tổng hợp qu ốc gia với hệ thống thông tin khác được thực hiện trên cơ sở thống nhất bằng văn bản giữa Bộ Công an và chủ sở hữu dữ liệu.\n\n4. Chính phủ quy định chi tiết Điều này.\n\nĐiều 37. Cung cấp dữ liệu cho Cơ sở dữ liệu tổng hợp quốc gia\n\n1. Cơ quan quản lý cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành, cơ sở dữ liệu khác cung cấp dữ liệu c ho Cơ sở dữ liệu tổng hợp quốc g ia theo quy định tại khoản 1 Điều 34 của Luật này.\n\n2. Nhà nước bảo đảm điều kiện cần thiết để thực hiện việc tiếp nhận dữ liệu do cơ quan, tổ chức, cá nhân cung cấp.\n\n3. Chính phủ quy định chi tiết Điều này.\n\nĐiều 38. Phí khai thác, sử dụng dữ liệu trong Cơ sở dữ liệu tổn g hợp quốc gia và cơ sở dữ liệu khác do cơ quan nhà nước quản lý\n\n1. Cơ quan Đảng, Nhà nước, Ủy ba n Mặt trận Tổ quốc Việt Nam và các tổ chức chính trị - xã hội khai thác, sử dụng thông tin trong Cơ s ở dữ liệu tổng hợp quốc gia và cơ sở dữ liệu khác do cơ quan nhà nước quản lý không phải nộp phí.\n\n2. Tổ chức, cá nhân khai thác, sử dụng dữ liệu của mình trong Cơ sở dữ liệu tổng hợp quốc gia và cơ sở dữ liệu khác do cơ quan nhà nước quản lý không phải nộp phí.\n\n3. Tổ chức, cá nhân không thuộc q uy định tại khoản 1 và khoản 2 Điều này khai thác, sử dụng dữ liệu trong Cơ sở dữ liệu tổng hợp quốc gi a và cơ sở dữ liệu khác do cơ quan nhà nước quản lý phải nộp phí theo quy định của pháp luật về phí và lệ phí.\n\nChương IV SẢN PHẨM, DỊCH VỤ VỀ DỮ LIỆU\n\nĐiều 39. Sản phẩm, dịch vụ về dữ liệu\n\n1. Sản phẩm, dịch vụ về dữ liệu trong hoạt động trung gian dữ l iệu, phân tích, tổng hợp dữ liệu, xác thực điện tử , sàn dữ liệu thực hiện theo quy định của Luật này và quy định khác của pháp luật có liên quan."
+        }
+      ],
+      "excluded_scope": "gddt physical page 27 has no extracted text and is not indexed; no claim about external decrees, live registries or non-indexed images."
+    },
+    {
+      "id": "UDEV02",
+      "reviewer": "Codex",
+      "human_confirmed": false,
+      "scope": [
+        {
+          "source_id": "dulieu",
+          "page": 1
+        },
+        {
+          "source_id": "dulieu",
+          "page": 2
+        },
+        {
+          "source_id": "dulieu",
+          "page": 3
+        },
+        {
+          "source_id": "dulieu",
+          "page": 4
+        },
+        {
+          "source_id": "dulieu",
+          "page": 5
+        },
+        {
+          "source_id": "dulieu",
+          "page": 6
+        },
+        {
+          "source_id": "dulieu",
+          "page": 7
+        },
+        {
+          "source_id": "dulieu",
+          "page": 8
+        },
+        {
+          "source_id": "dulieu",
+          "page": 9
+        },
+        {
+          "source_id": "dulieu",
+          "page": 10
+        },
+        {
+          "source_id": "dulieu",
+          "page": 11
+        },
+        {
+          "source_id": "dulieu",
+          "page": 12
+        },
+        {
+          "source_id": "dulieu",
+          "page": 13
+        },
+        {
+          "source_id": "dulieu",
+          "page": 14
+        },
+        {
+          "source_id": "dulieu",
+          "page": 15
+        },
+        {
+          "source_id": "dulieu",
+          "page": 16
+        },
+        {
+          "source_id": "dulieu",
+          "page": 17
+        },
+        {
+          "source_id": "dulieu",
+          "page": 18
+        },
+        {
+          "source_id": "dulieu",
+          "page": 19
+        },
+        {
+          "source_id": "dulieu",
+          "page": 20
+        },
+        {
+          "source_id": "dulieu",
+          "page": 21
+        },
+        {
+          "source_id": "dulieu",
+          "page": 22
+        },
+        {
+          "source_id": "dulieu",
+          "page": 23
+        },
+        {
+          "source_id": "gddt",
+          "page": 1
+        },
+        {
+          "source_id": "gddt",
+          "page": 2
+        },
+        {
+          "source_id": "gddt",
+          "page": 3
+        },
+        {
+          "source_id": "gddt",
+          "page": 4
+        },
+        {
+          "source_id": "gddt",
+          "page": 5
+        },
+        {
+          "source_id": "gddt",
+          "page": 6
+        },
+        {
+          "source_id": "gddt",
+          "page": 7
+        },
+        {
+          "source_id": "gddt",
+          "page": 8
+        },
+        {
+          "source_id": "gddt",
+          "page": 9
+        },
+        {
+          "source_id": "gddt",
+          "page": 10
+        },
+        {
+          "source_id": "gddt",
+          "page": 11
+        },
+        {
+          "source_id": "gddt",
+          "page": 12
+        },
+        {
+          "source_id": "gddt",
+          "page": 13
+        },
+        {
+          "source_id": "gddt",
+          "page": 14
+        },
+        {
+          "source_id": "gddt",
+          "page": 15
+        },
+        {
+          "source_id": "gddt",
+          "page": 16
+        },
+        {
+          "source_id": "gddt",
+          "page": 17
+        },
+        {
+          "source_id": "gddt",
+          "page": 18
+        },
+        {
+          "source_id": "gddt",
+          "page": 19
+        },
+        {
+          "source_id": "gddt",
+          "page": 20
+        },
+        {
+          "source_id": "gddt",
+          "page": 21
+        },
+        {
+          "source_id": "gddt",
+          "page": 22
+        },
+        {
+          "source_id": "gddt",
+          "page": 23
+        },
+        {
+          "source_id": "gddt",
+          "page": 24
+        },
+        {
+          "source_id": "gddt",
+          "page": 25
+        },
+        {
+          "source_id": "gddt",
+          "page": 26
+        }
+      ],
+      "page_count": 49,
+      "method": "Scanned all indexed page texts and document article coverage; read related provisions semantically. Keyword matches are navigation evidence, not the sole basis for absence.",
+      "absence_reason": "Có định nghĩa chữ ký số và yêu cầu an toàn/tiêu chuẩn, nhưng không có tham số RSA hoặc độ dài khóa tối thiểu.",
+      "keyword_scan": [
+        {
+          "term": "RSA",
+          "matching_pages": []
+        },
+        {
+          "term": "thuật toán",
+          "matching_pages": [
+            {
+              "source_id": "gddt",
+              "page": 2
+            },
+            {
+              "source_id": "dulieu",
+              "page": 2
+            }
+          ]
+        },
+        {
+          "term": "khóa",
+          "matching_pages": [
+            {
+              "source_id": "gddt",
+              "page": 2
+            },
+            {
+              "source_id": "dulieu",
+              "page": 23
+            }
+          ]
+        },
+        {
+          "term": "tiêu chuẩn",
+          "matching_pages": [
+            {
+              "source_id": "gddt",
+              "page": 13
+            },
+            {
+              "source_id": "gddt",
+              "page": 24
+            },
+            {
+              "source_id": "dulieu",
+              "page": 4
+            },
+            {
+              "source_id": "dulieu",
+              "page": 7
+            },
+            {
+              "source_id": "dulieu",
+              "page": 8
+            },
+            {
+              "source_id": "dulieu",
+              "page": 14
+            },
+            {
+              "source_id": "dulieu",
+              "page": 15
+            },
+            {
+              "source_id": "dulieu",
+              "page": 17
+            }
+          ]
+        }
+      ],
+      "related_pages_reviewed": [
+        {
+          "source_id": "gddt",
+          "page": 11,
+          "text": "c) Chữ ký số chuyên dùng công vụ là chữ ký số được sử dụng trong hoạt động công vụ và được bảo đảm bởi chứng thư chữ ký số chuyên dùng công vụ.\n\n2. Chữ ký điện tử chuyên dùng phải đáp ứng đủ các yêu cầu sau đây:\n\na) Xác nhận chủ thể ký và khẳng định sự chấp thuận của chủ thể ký đối với thông điệp dữ liệu;\n\nb) Dữ liệu tạo chữ ký điện tử chuyên dùng chỉ gắn duy nhất với nội dung của thông điệp dữ liệu được chấp thuận;\n\nc) Dữ liệu tạo chữ ký điện tử chuyên dùng chỉ thuộc sự kiểm soát của chủ thể ký tại thời điểm ký;\n\nd) Hiệu lực của chữ ký điện tử chuyên dùng có thể được kiểm tra theo điều kiện do các bên tham gia thỏa thuận.\n\n3. Chữ ký số là chữ ký điện tử đáp ứng đủ các yêu cầu sau đây:\n\na) Xác nhận chủ thể ký và khẳng định sự chấp thuận của chủ thể ký đối với thông điệp dữ liệu;\n\nb) Dữ liệu tạo chữ ký số chỉ gắn duy nhất với nội dung của thông điệp dữ liệu được chấp thuận;\n\nc) Dữ liệu tạo chữ ký số chỉ thuộc sự kiểm soát của chủ thể ký tại thời điểm ký;\n\nd) Mọi thay đổi đối với thông điệp dữ liệu sau thời điểm ký đều có thể bị phát hiện;\n\nđ) Phải được bảo đảm bởi chứng thư chữ ký số. Trường hợp chữ ký số chuyên dùng công vụ phải được bảo đảm bởi chứng thư chữ ký số của tổ chức cung cấp dịch vụ chứng thực chữ ký số chuyên dùng công vụ. Trường hợp chữ ký số công cộng phải được bảo đảm bởi chứng thư chữ ký số của tổ chức cung cấp dịch vụ chứng thực chữ ký số công cộng;\n\ne) Phương tiện tạo chữ ký số phải bảo đảm dữ liệu tạo chữ ký số không bị tiết lộ, thu thập , sử dụng cho mục đích giả mạo chữ ký; bảo đảm dữ liệu được dùng để tạo chữ ký số chỉ có thể sử dụng một lần duy nhất; không làm thay đổi dữ liệu cần ký.\n\n4. Việc sử dụng các hình thức xác nhận khác bằng phương tiện điện tử để thể hiện sự chấp thuận của chủ thể ký đối với thông điệp dữ liệu mà không phải là chữ ký điện tử thực hiện theo quy định khác của pháp luật có liên quan.\n\nĐiều 23. Giá trị pháp lý của chữ ký điện tử\n\n1. Chữ ký điện tử không bị phủ nhận giá trị pháp lý chỉ vì được thể hiện dưới dạng chữ ký điện tử.\n\n2. Chữ ký điện tử chuyên dùng bảo đảm an toàn hoặc chữ ký số có giá trị pháp lý tương đương chữ ký của cá nhân đó trong văn bản giấy."
+        },
+        {
+          "source_id": "gddt",
+          "page": 12,
+          "text": "3. Trường hợp pháp luật quy định văn bản phải được cơ quan, tổ chức xác nhận thì yêu cầu đó được xem là đáp ứng đối với một thông điệp dữ liệu nếu thông điệp dữ liệu đó được ký bằng chữ ký điện tử chuyên dùng bảo đảm an toàn hoặc chữ ký số của cơ quan, tổ chức đó.\n\nĐiều 24. Dịch vụ chứng thực chữ ký số chuyên dùng công vụ\n\n1. Dịch vụ chứng thực chữ ký số chuyên dùng công vụ là dịch vụ chứng thực chữ ký số trong hoạt động công vụ.\n\n2. Chứng thư chữ ký số chuyên dùng công vụ được quản lý, cung cấp bởi tổ chức cung cấp dịch vụ chứng thực chữ ký số chuyên dùng công vụ theo quy định của pháp luật về giao dịch điện tử và pháp luật về cơ yếu.\n\n3. Tổ chức cung cấp dịch vụ chứng thực chữ ký số chuyên dùng công vụ thực hiện các hoạt động sau đây:\n\na) Phát hành chứng thư chữ ký số chuyên dùng công vụ để xác nhận và duy trì trạng thái hiệu lực chứng thư chữ ký số chuyên dùng công vụ của chủ thể ký thông điệp dữ liệu;\n\nb) Thu hồi chứng thư chữ ký số chuyên dùng công vụ;\n\nc) Kiểm tra hiệu lực chữ ký số chuyên dùng công vụ và duy trì trạng thái hiệu lực của chứng thư chữ ký số chuyên dùng công vụ; không sử dụng rào cản kỹ thuật, công nghệ để hạn chế việc kiểm tra hiệu lực chữ ký số chuyên dùng công vụ;\n\nd) Cung cấp thông tin cần thiết để chứng thực chữ ký số chuyên dùng công vụ;\n\nđ) Liên thông với tổ chức cung cấp dịch vụ chứng thực điện tử quốc gia để bảo đảm cho việc kiểm tra hiệu lực chữ ký số chuyên dùng công vụ;\n\ne) Cấp dấu thời gian trong hoạt động công vụ.\n\n4. Chứng thư chữ ký số chuyên dùng công vụ, chữ ký số chuyên dùng công vụ phải đáp ứng quy chuẩn kỹ thuật, yêu cầu kỹ thuật đối với chữ ký số và dịch vụ chứng thực chữ ký số theo quy định của pháp luật.\n\n5. Chính phủ quy định chi tiết Điều này.\n\nĐiều 25. Sử dụng chữ ký điện tử chuyên dùng, chữ ký điện tử chuyên dùng bảo đảm an toàn\n\n1. Cơ quan, tổ chức tạo lập chữ ký điện tử chuyên dùng không được kinh doanh dịch vụ về chữ ký điện tử chuyên dùng.\n\n2. Chữ ký điện tử chuyên dùng bảo đảm an toàn là chữ ký điện tử chuyên dùng được Bộ Thông tin và Truyền thông cấp chứng nhận chữ ký điện tử chuyên dùng bảo đảm an toàn.\n\n3. Trường hợp cơ quan, tổ chức sử dụng chữ ký điện tử chuyên dùng để giao dịch với tổ chức, cá nhân khác hoặc có nhu cầu công nhận chữ ký điện tử chuyên"
+        },
+        {
+          "source_id": "dulieu",
+          "page": 11,
+          "text": "Dữ liệu được xác nhận có giá trị chứng minh sự tồn tại, thời gi an, nơi lưu trữ của dữ liệu trên không gian mạng theo quy định của Luật này và quy định khác của pháp luật có liên quan.\n\n2. Xác thực dữ liệu được thực hiện bởi chủ sở hữu dữ liệu, chủ quản dữ liệu tạo lập dữ liệu gốc, tổ chức cu ng cấp dịch vụ xác thực điện tử, Trung tâm dữ liệu quốc gia. Dữ liệu đã được xác thực có giá trị tương đương với d ữ liệu gốc được lưu trữ tại cơ sở dữ liệu quốc gia , cơ sở dữ liệu chuyên ngành, cơ sở dữ liệu khác trong phạm vi và thời gian nhất định.\n\n3. Chính phủ quy định chi tiết Điều này.\n\nĐiều 21. Công khai dữ liệu\n\n1. Việc công khai dữ liệu phải bảo đảm phản ánh đúng dữ liệu từ nguồn dữ liệu gốc, thuận lợi cho tổ chức, cá nhân trong việc khai thác, sử dụng, chia sẻ.\n\n2. Dữ liệu được công khai, công kha i có điều kiện, không được c ông khai phải căn cứ vào thông tin được dữ liệu phản ánh theo quy định của pháp luật về tiếp cận thông tin.\n\n3. Hình thức công khai dữ liệu, b ao gồm: đăng tải dữ liệu trên cổng dữ liệu, cổng thông tin điện tử, trang t hông tin điện tử, phương tiện th ông tin đại chúng và các hình thức khác theo quy định của pháp luật.\n\n4. Cơ quan nhà nước có trách nhiệm công bố danh mục dữ liệu mở và tổ chức công khai dữ liệu mở theo quy đị nh tại Điều này để tổ chức, cá nhân khai thác, sử dụng, chia sẻ. Thời điểm công khai dữ liệu đối với từng lĩnh vự c được thực hiện theo quy định của pháp luật.\n\n5. Chính phủ quy định chi tiết Điều này.\n\nĐiều 22. Mã hóa, giải mã dữ liệu\n\n1. Dữ liệu thuộc danh mục bí mật nhà nước phải được mã hóa bằng mật mã của cơ yếu khi lưu trữ, truyền, nhận, chia sẻ trên mạng máy tính.\n\n2. Cơ quan, tổ chức, cá nhân được sử dụng một hoặc nhiều giải pháp mã hóa và quy trình mã hóa, giải mã phù hợp với hoạt động quản trị, quản lý dữ liệu của mình.\n\n3. Chủ sở hữu dữ liệu, chủ quản dữ liệu quyết định việc mã hóa, giải mã dữ liệu.\n\n4. Cơ quan nhà nước có thẩm quyền được quyền áp dụng các biện p háp để giải mã dữ liệu mà không cần chủ sở hữu dữ liệu, chủ quản dữ liệu đồ ng ý trong các trường hợp sau đây:\n\na) Tình trạng khẩn cấp;"
+        },
+        {
+          "source_id": "dulieu",
+          "page": 14,
+          "text": "Điều 27. Bảo vệ dữ liệu\n\n1. Biện pháp bảo vệ dữ liệu được áp dụng trong toàn bộ quá trình xử lý dữ liệu, bao gồm:\n\na) Xây dựng và tổ chức thực hiện chính sách, quy định bảo vệ dữ liệu;\n\nb) Quản lý hoạt động xử lý dữ liệu;\n\nc) Xây dựng và triển khai các giải pháp kỹ thuật;\n\nd) Đào tạo, bồi dưỡng, phát triển, quản lý nguồn nhân lực;\n\nđ) Các biện pháp bảo vệ dữ liệu khác theo quy định của pháp luật.\n\n2. Cơ quan nhà nước phải bảo vệ dữ liệu trong ngành, lĩnh vực do mình quản lý, tuân thủ các chính sách chung về quốc phòng, an ninh; thiết lập hệ thống bảo vệ dữ liệu thống nhất để đánh giá rủi ro an ninh dữ liệu, giám sát và cảnh báo sớm.\n\n3. Chủ sở hữu dữ liệu, chủ quản dữ liệu quản lý dữ liệu cốt lõi , dữ liệu quan trọng phải tuân thủ các quy định về bảo vệ dữ liệu.\n\n4. Chính phủ quy định chi tiết Điều này.\n\nĐiều 28. Tiêu chuẩn, quy chuẩn kỹ thuật về dữ liệu\n\n1. Tiêu chuẩn về dữ liệu gồm tiêu chuẩn đối với hệ thống thông tin, phần cứng, phần mềm, hệ thống quản lý, vận hành, xử lý, bảo đảm chất lượng dữ liệu, bảo vệ dữ liệu được công bố, thừa nhận áp dụng tại Việt Nam.\n\n2. Quy chuẩn kỹ thuật về dữ liệ u gồm quy chuẩn kỹ thuật đối với hệ thống thông tin, phần cứng, phần mềm, hệ thống quản lý, vận hành, xử lý, bảo đảm chất lượng dữ liệu, bảo vệ dữ liệu được xây dựng, ban hành và áp dụng tại Việt Nam.\n\n3. Bộ Công an chủ trì, phối hợp với cơ quan có liên quan ban hà nh danh mục tiêu chuẩn, quy chuẩn kỹ thuật về dữ liệu; trừ danh mục tiêu ch uẩn, quy chuẩn kỹ thuật về dữ liệu thuộc lĩnh vực quốc phòng, cơ yếu.\n\n4. Cơ quan quản lý cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành phải xây dựng tiêu chuẩn, quy chuẩn kỹ thuật về dữ liệu theo danh mụ c đã ban hành theo quy định tại khoản 3 Điều này.\n\nĐiều 29. Quỹ phát triển dữ liệu quốc gia\n\n1. Quỹ phát triển dữ liệu quốc gia là quỹ tài chính nhà nước ng oài ngân sách, được hình thành ở trung ương để t húc đẩy phát triển, khai thác, ứng dụng, quản trị dữ liệu quốc gia."
+        }
+      ],
+      "excluded_scope": "gddt physical page 27 has no extracted text and is not indexed; no claim about external decrees, live registries or non-indexed images."
+    },
+    {
+      "id": "UDEV03",
+      "reviewer": "Codex",
+      "human_confirmed": false,
+      "scope": [
+        {
+          "source_id": "dulieu",
+          "page": 1
+        },
+        {
+          "source_id": "dulieu",
+          "page": 2
+        },
+        {
+          "source_id": "dulieu",
+          "page": 3
+        },
+        {
+          "source_id": "dulieu",
+          "page": 4
+        },
+        {
+          "source_id": "dulieu",
+          "page": 5
+        },
+        {
+          "source_id": "dulieu",
+          "page": 6
+        },
+        {
+          "source_id": "dulieu",
+          "page": 7
+        },
+        {
+          "source_id": "dulieu",
+          "page": 8
+        },
+        {
+          "source_id": "dulieu",
+          "page": 9
+        },
+        {
+          "source_id": "dulieu",
+          "page": 10
+        },
+        {
+          "source_id": "dulieu",
+          "page": 11
+        },
+        {
+          "source_id": "dulieu",
+          "page": 12
+        },
+        {
+          "source_id": "dulieu",
+          "page": 13
+        },
+        {
+          "source_id": "dulieu",
+          "page": 14
+        },
+        {
+          "source_id": "dulieu",
+          "page": 15
+        },
+        {
+          "source_id": "dulieu",
+          "page": 16
+        },
+        {
+          "source_id": "dulieu",
+          "page": 17
+        },
+        {
+          "source_id": "dulieu",
+          "page": 18
+        },
+        {
+          "source_id": "dulieu",
+          "page": 19
+        },
+        {
+          "source_id": "dulieu",
+          "page": 20
+        },
+        {
+          "source_id": "dulieu",
+          "page": 21
+        },
+        {
+          "source_id": "dulieu",
+          "page": 22
+        },
+        {
+          "source_id": "dulieu",
+          "page": 23
+        },
+        {
+          "source_id": "gddt",
+          "page": 1
+        },
+        {
+          "source_id": "gddt",
+          "page": 2
+        },
+        {
+          "source_id": "gddt",
+          "page": 3
+        },
+        {
+          "source_id": "gddt",
+          "page": 4
+        },
+        {
+          "source_id": "gddt",
+          "page": 5
+        },
+        {
+          "source_id": "gddt",
+          "page": 6
+        },
+        {
+          "source_id": "gddt",
+          "page": 7
+        },
+        {
+          "source_id": "gddt",
+          "page": 8
+        },
+        {
+          "source_id": "gddt",
+          "page": 9
+        },
+        {
+          "source_id": "gddt",
+          "page": 10
+        },
+        {
+          "source_id": "gddt",
+          "page": 11
+        },
+        {
+          "source_id": "gddt",
+          "page": 12
+        },
+        {
+          "source_id": "gddt",
+          "page": 13
+        },
+        {
+          "source_id": "gddt",
+          "page": 14
+        },
+        {
+          "source_id": "gddt",
+          "page": 15
+        },
+        {
+          "source_id": "gddt",
+          "page": 16
+        },
+        {
+          "source_id": "gddt",
+          "page": 17
+        },
+        {
+          "source_id": "gddt",
+          "page": 18
+        },
+        {
+          "source_id": "gddt",
+          "page": 19
+        },
+        {
+          "source_id": "gddt",
+          "page": 20
+        },
+        {
+          "source_id": "gddt",
+          "page": 21
+        },
+        {
+          "source_id": "gddt",
+          "page": 22
+        },
+        {
+          "source_id": "gddt",
+          "page": 23
+        },
+        {
+          "source_id": "gddt",
+          "page": 24
+        },
+        {
+          "source_id": "gddt",
+          "page": 25
+        },
+        {
+          "source_id": "gddt",
+          "page": 26
+        }
+      ],
+      "page_count": 49,
+      "method": "Scanned all indexed page texts and document article coverage; read related provisions semantically. Keyword matches are navigation evidence, not the sole basis for absence.",
+      "absence_reason": "Các điều về kết nối, chia sẻ và khai thác quy định nguyên tắc/thẩm quyền; không có tài liệu endpoint hoặc URL triển khai API.",
+      "keyword_scan": [
+        {
+          "term": "API",
+          "matching_pages": []
+        },
+        {
+          "term": "URL",
+          "matching_pages": []
+        },
+        {
+          "term": "kết nối",
+          "matching_pages": [
+            {
+              "source_id": "gddt",
+              "page": 15
+            },
+            {
+              "source_id": "gddt",
+              "page": 19
+            },
+            {
+              "source_id": "gddt",
+              "page": 20
+            },
+            {
+              "source_id": "gddt",
+              "page": 23
+            },
+            {
+              "source_id": "dulieu",
+              "page": 2
+            },
+            {
+              "source_id": "dulieu",
+              "page": 3
+            },
+            {
+              "source_id": "dulieu",
+              "page": 6
+            },
+            {
+              "source_id": "dulieu",
+              "page": 9
+            },
+            {
+              "source_id": "dulieu",
+              "page": 17
+            },
+            {
+              "source_id": "dulieu",
+              "page": 19
+            },
+            {
+              "source_id": "dulieu",
+              "page": 20
+            },
+            {
+              "source_id": "dulieu",
+              "page": 21
+            },
+            {
+              "source_id": "dulieu",
+              "page": 23
+            }
+          ]
+        },
+        {
+          "term": "chia sẻ",
+          "matching_pages": [
+            {
+              "source_id": "gddt",
+              "page": 2
+            },
+            {
+              "source_id": "gddt",
+              "page": 18
+            },
+            {
+              "source_id": "gddt",
+              "page": 19
+            },
+            {
+              "source_id": "gddt",
+              "page": 20
+            },
+            {
+              "source_id": "gddt",
+              "page": 22
+            },
+            {
+              "source_id": "gddt",
+              "page": 23
+            },
+            {
+              "source_id": "dulieu",
+              "page": 1
+            },
+            {
+              "source_id": "dulieu",
+              "page": 2
+            },
+            {
+              "source_id": "dulieu",
+              "page": 3
+            },
+            {
+              "source_id": "dulieu",
+              "page": 6
+            },
+            {
+              "source_id": "dulieu",
+              "page": 8
+            },
+            {
+              "source_id": "dulieu",
+              "page": 9
+            },
+            {
+              "source_id": "dulieu",
+              "page": 10
+            },
+            {
+              "source_id": "dulieu",
+              "page": 11
+            },
+            {
+              "source_id": "dulieu",
+              "page": 15
+            },
+            {
+              "source_id": "dulieu",
+              "page": 17
+            },
+            {
+              "source_id": "dulieu",
+              "page": 18
+            },
+            {
+              "source_id": "dulieu",
+              "page": 19
+            },
+            {
+              "source_id": "dulieu",
+              "page": 20
+            },
+            {
+              "source_id": "dulieu",
+              "page": 21
+            },
+            {
+              "source_id": "dulieu",
+              "page": 23
+            }
+          ]
+        }
+      ],
+      "related_pages_reviewed": [
+        {
+          "source_id": "dulieu",
+          "page": 17,
+          "text": "7. Tổ chức thực hiện các nội dung hợp tác quốc tế về dữ liệu.\n\n8. Chính phủ quy định chi tiết Điều này.\n\nĐiều 32. Bảo đảm nguồn lực xây dựng, phát triển Trung tâm dữ li ệu quốc gia\n\n1. Nhà nước ưu tiên đầu tư cơ sở hạ tầng, cơ sở vật chất, đất đ ai, trụ sở, công trình, công nghệ, bảo đảm ngân sách cho xây dựng và quản lý nhà nước về dữ liệu, quản trị dữ liệu, xây dựng, quả n lý và vận hành Trung tâm dữ li ệu quốc gia, Cơ sở dữ liệu tổng hợp quốc gia.\n\n2. Hoạt động của Trung tâm dữ liệu quốc gia sử dụng ngân sách n hà nước và các nguồn kinh phí hợp pháp khác.\n\n3. Nhà nước bảo đảm nguồn nhân lực cho các hoạt động của Trung tâm dữ liệu quốc gia; có cơ chế thu hút, đãi ngộ đối với nhân lực chất lượng cao.\n\n4. Trung tâm dữ liệu quốc gia đượ c bảo đảm nguồn lực để thực hi ện nâng cấp, bảo trì, sửa chữa cơ sở hạ tầng, thiết bị do Trung tâm dữ liệu quốc gia đầu tư.\n\nMục 2 CƠ SỞ DỮ LIỆU TỔNG HỢP QUỐC GIA\n\nĐiều 33. Xây dựng Cơ sở dữ liệu tổng hợp quốc gia Cơ sở dữ liệu tổng hợp quốc gia được Chính phủ xây dựng và quản lý tập trung, thống nhất tại Trung tâm dữ liệu quốc gia và đáp ứng các yêu cầu sau đây:\n\n1. Tuân thủ tiêu chuẩn, quy chuẩ n kỹ thuật, định mức kinh tế - kỹ thuật về dữ liệu, công nghệ thông tin có liên quan;\n\n2. Bảo đảm an ninh, an toàn thông tin, bảo vệ dữ liệu cá nhân, thuận lợi cho việc thu thập, cập nhật, điều chỉnh, khai thác, sử dụng;\n\n3. Bảo đảm hoạt động ổn định, liên tục, kết nối, chia sẻ với các cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành, cơ sở dữ liệu khác và hệ thống thông tin khác;\n\n4. Bảo đảm quyền khai thác dữ liệu của cơ quan, tổ chức, cá nhâ n theo quy định của pháp luật;\n\n5. Bảo đảm yêu cầu tích hợp, đồng bộ, lưu trữ, khai thác, chia sẻ và điều phối dữ liệu tổng hợp từ các cơ sở dữ liệu và thực hiện việc phân tích chuyên sâu các dữ liệu, hỗ trợ công tác xây dựng cơ chế, chính sách và phục vụ phát triển kinh tế - xã hội;\n\n6. Phục vụ việc hỗ trợ, phát triển sản phẩm, dịch vụ về dữ liệu."
+        },
+        {
+          "source_id": "dulieu",
+          "page": 18,
+          "text": "Điều 34. Thu thập, cập nhật, đồng bộ dữ liệu vào Cơ sở dữ liệu tổng hợp quốc gia\n\n1. Dữ liệu được thu thập, cập nhậ t, đồng bộ vào Cơ sở dữ liệu t ổng hợp quốc gia, bao gồm:\n\na) Dữ liệu mở;\n\nb) Dữ liệu dùng chung của cơ quan nhà nước;\n\nc) Dữ liệu dùng riêng của cơ quan nhà nước theo quyết định của Thủ tướng Chính phủ để phục vụ nhiệm vụ quốc phòng, an ninh, đối ngoại, c ơ yếu, phát triển kinh tế - xã hội, chuyển đổi số, lợi ích quốc gia, lợi ích công cộng;\n\nd) Dữ liệu của cơ quan Đảng, Ủy ban Mặt trận Tổ quốc Việt Nam v à các tổ chức chính trị - xã hội khi được chủ sở hữu dữ liệu đồng ý;\n\nđ) Dữ liệu khác do tổ chức, cá nhân cung cấp.\n\n2. Nguồn thu thập, cập nhật, đồng bộ dữ liệu trong Cơ sở dữ liệ u tổng hợp quốc gia, bao gồm:\n\na) Từ quá trình thực hiện thủ tục hành chính, dịch vụ công;\n\nb) Được cập nhật, chia sẻ, đồng bộ từ các cơ sở dữ liệu khác;\n\nc) Được số hóa, cung cấp, tích hợp bởi cá nhân, tổ chức;\n\nd) Nguồn khác theo quy định của pháp luật.\n\n3. Trung tâm dữ liệu quốc gia phối hợp với cơ quan, tổ chức, cá nhân có liên quan kiểm tra dữ liệu khi thu thập, cập nhật, đồng bộ để bảo đả m tính chính xác, thống nhất. Trường hợp dữ liệu trong cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành, cơ sở dữ liệu khác không thố ng nhất với dữ liệu trong Cơ sở dữ liệu tổng hợp quốc gia, Trung tâm dữ liệu quốc gia phối hợp với cơ quan c ó liên quan kiểm tra, đối soát dữ liệu và cập nhật, đồng bộ trong các cơ sở dữ liệu.\n\n4. Thủ tướng Chính phủ quyết định lộ trình xây dựng, phát triển cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngà nh và lộ trình thực hiện việc thu thập, cập nhật, đồng bộ dữ liệu vào Cơ sở dữ liệu tổng hợp quốc gia.\n\nĐiều 35. Khai thác và sử dụng Cơ sở dữ liệu tổng hợp quốc gia\n\n1. Cơ sở dữ liệu tổng hợp quốc gia được xây dựng phục vụ việc k hai thác, sử dụng chung đáp ứng hoạt động của cơ quan Đảng, Nhà nước, Ủy ban Mặt trận Tổ quốc Việt Nam và các tổ chức chính trị - xã hội; phục vụ thực h iện thủ tục hành chính, dịch vụ công, phục vụ chỉ đạo điều hành của Chính phủ; p hục vụ công tác"
+        },
+        {
+          "source_id": "dulieu",
+          "page": 19,
+          "text": "thống kê, hoạch định chính sách, xây dựng quy hoạch, chiến lược phát triển kinh tế - xã hội, quốc phòng, an ninh, đối ngoại, cơ yếu, đấu t ranh phòng, chống tội phạm, xử lý vi phạm pháp luật; phục vụ nhu cầu khai thác, s ử dụng, ứng dụng dữ liệu của tổ chức, cá nhân.\n\n2. Dữ liệu trong Cơ sở dữ liệu tổng hợp quốc gia có giá trị kha i thác và sử dụng như dữ liệu gốc.\n\n3. Chủ thể khai thác và sử dụng dữ liệu trong Cơ sở dữ liệu tổn g hợp quốc gia, bao gồm:\n\na) Cơ quan Đảng, Nhà nước, Ủy ba n Mặt trận Tổ quốc Việt Nam và các tổ chức chính trị - xã hội được khai thác và sử dụng dữ liệu phù h ợp với chức năng, nhiệm vụ của cơ quan, tổ chức đó;\n\nb) Chủ thể dữ liệu được khai th ác và sử dụng dữ liệu phản ánh v ề chủ thể dữ liệu đó;\n\nc) Tổ chức và cá nhân không thuộc quy định tại điểm a và điểm b khoản này được khai thác và sử dụng dữ liệu như sau: tự do khai thác và s ử dụng dữ liệu mở; khai thác và sử dụng dữ liệu cá nhân khi được sự đồng ý của Tru ng tâm dữ liệu quốc gia và cá nhân là chủ thể dữ liệu được khai thác; khai thác và sử dụng dữ liệu khác khi được sự đồng ý của Trung tâm dữ liệu quốc gia.\n\n4. Việc khai thác và sử dụng dữ liệu thực hiện qua các phương thức sau đây:\n\na) Kết nối, chia sẻ dữ liệu giữa cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành, cơ sở dữ liệu, hệ thống thông tin khác với Cơ sở dữ liệu tổng hợp quốc gia;\n\nb) Cổng dữ liệu quốc gia, Cổng Dịch vụ công quốc gia, cổng thôn g tin điện tử, hệ thống thông tin giải quyết thủ tục hành chính;\n\nc) Nền tảng định danh và xác thực điện tử;\n\nd) Ứng dụng định danh quốc gia;\n\nđ) Thiết bị, phương tiện, phần mềm do Trung tâm dữ liệu quốc gia cung cấp;\n\ne) Phương thức khác.\n\n5. Chính phủ quy định chi tiết Điều này.\n\nĐiều 36. Kết nối, chia sẻ dữ liệu với Cơ sở dữ liệu tổng hợp quốc gia\n\n1. Các cơ sở dữ liệu quốc gia kh ác, cơ sở dữ liệu chuyên ngành và hệ thống thông tin khác của cơ quan Đảng, N hà nước, Ủy ban Mặt trận Tổ q uốc Việt Nam và các tổ chức chính trị - xã hội kết nối với Cơ sở dữ liệu tổn g hợp quốc gia thông qua Nền tảng chia sẻ, điều phối d ữ liệu; Nền tảng tích hợp, chi a sẻ dữ liệu quốc"
+        },
+        {
+          "source_id": "dulieu",
+          "page": 20,
+          "text": "gia; nền tảng tích hợp, chia sẻ dữ liệu cấp bộ, cấp tỉnh, mạng Internet, mạng máy tính, hệ thống thông tin.\n\n2. Việc kết nối, chia sẻ dữ liệu giữa Cơ sở dữ liệu tổng hợp qu ốc gia và các cơ sở dữ liệu khác phải bảo đảm hiệu quả, an toàn, phù hợp với chứ c năng, nhiệm vụ, quyền hạn của cơ quan, tổ chức, cá nhân theo quy định của pháp luật.\n\n3. Việc kết nối, chia sẻ dữ liệu giữa Cơ sở dữ liệu tổng hợp qu ốc gia với hệ thống thông tin khác được thực hiện trên cơ sở thống nhất bằng văn bản giữa Bộ Công an và chủ sở hữu dữ liệu.\n\n4. Chính phủ quy định chi tiết Điều này.\n\nĐiều 37. Cung cấp dữ liệu cho Cơ sở dữ liệu tổng hợp quốc gia\n\n1. Cơ quan quản lý cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành, cơ sở dữ liệu khác cung cấp dữ liệu c ho Cơ sở dữ liệu tổng hợp quốc g ia theo quy định tại khoản 1 Điều 34 của Luật này.\n\n2. Nhà nước bảo đảm điều kiện cần thiết để thực hiện việc tiếp nhận dữ liệu do cơ quan, tổ chức, cá nhân cung cấp.\n\n3. Chính phủ quy định chi tiết Điều này.\n\nĐiều 38. Phí khai thác, sử dụng dữ liệu trong Cơ sở dữ liệu tổn g hợp quốc gia và cơ sở dữ liệu khác do cơ quan nhà nước quản lý\n\n1. Cơ quan Đảng, Nhà nước, Ủy ba n Mặt trận Tổ quốc Việt Nam và các tổ chức chính trị - xã hội khai thác, sử dụng thông tin trong Cơ s ở dữ liệu tổng hợp quốc gia và cơ sở dữ liệu khác do cơ quan nhà nước quản lý không phải nộp phí.\n\n2. Tổ chức, cá nhân khai thác, sử dụng dữ liệu của mình trong Cơ sở dữ liệu tổng hợp quốc gia và cơ sở dữ liệu khác do cơ quan nhà nước quản lý không phải nộp phí.\n\n3. Tổ chức, cá nhân không thuộc q uy định tại khoản 1 và khoản 2 Điều này khai thác, sử dụng dữ liệu trong Cơ sở dữ liệu tổng hợp quốc gi a và cơ sở dữ liệu khác do cơ quan nhà nước quản lý phải nộp phí theo quy định của pháp luật về phí và lệ phí.\n\nChương IV SẢN PHẨM, DỊCH VỤ VỀ DỮ LIỆU\n\nĐiều 39. Sản phẩm, dịch vụ về dữ liệu\n\n1. Sản phẩm, dịch vụ về dữ liệu trong hoạt động trung gian dữ l iệu, phân tích, tổng hợp dữ liệu, xác thực điện tử , sàn dữ liệu thực hiện theo quy định của Luật này và quy định khác của pháp luật có liên quan."
+        }
+      ],
+      "excluded_scope": "gddt physical page 27 has no extracted text and is not indexed; no claim about external decrees, live registries or non-indexed images."
+    },
+    {
+      "id": "UDEV04",
+      "reviewer": "Codex",
+      "human_confirmed": false,
+      "scope": [
+        {
+          "source_id": "dulieu",
+          "page": 1
+        },
+        {
+          "source_id": "dulieu",
+          "page": 2
+        },
+        {
+          "source_id": "dulieu",
+          "page": 3
+        },
+        {
+          "source_id": "dulieu",
+          "page": 4
+        },
+        {
+          "source_id": "dulieu",
+          "page": 5
+        },
+        {
+          "source_id": "dulieu",
+          "page": 6
+        },
+        {
+          "source_id": "dulieu",
+          "page": 7
+        },
+        {
+          "source_id": "dulieu",
+          "page": 8
+        },
+        {
+          "source_id": "dulieu",
+          "page": 9
+        },
+        {
+          "source_id": "dulieu",
+          "page": 10
+        },
+        {
+          "source_id": "dulieu",
+          "page": 11
+        },
+        {
+          "source_id": "dulieu",
+          "page": 12
+        },
+        {
+          "source_id": "dulieu",
+          "page": 13
+        },
+        {
+          "source_id": "dulieu",
+          "page": 14
+        },
+        {
+          "source_id": "dulieu",
+          "page": 15
+        },
+        {
+          "source_id": "dulieu",
+          "page": 16
+        },
+        {
+          "source_id": "dulieu",
+          "page": 17
+        },
+        {
+          "source_id": "dulieu",
+          "page": 18
+        },
+        {
+          "source_id": "dulieu",
+          "page": 19
+        },
+        {
+          "source_id": "dulieu",
+          "page": 20
+        },
+        {
+          "source_id": "dulieu",
+          "page": 21
+        },
+        {
+          "source_id": "dulieu",
+          "page": 22
+        },
+        {
+          "source_id": "dulieu",
+          "page": 23
+        },
+        {
+          "source_id": "gddt",
+          "page": 1
+        },
+        {
+          "source_id": "gddt",
+          "page": 2
+        },
+        {
+          "source_id": "gddt",
+          "page": 3
+        },
+        {
+          "source_id": "gddt",
+          "page": 4
+        },
+        {
+          "source_id": "gddt",
+          "page": 5
+        },
+        {
+          "source_id": "gddt",
+          "page": 6
+        },
+        {
+          "source_id": "gddt",
+          "page": 7
+        },
+        {
+          "source_id": "gddt",
+          "page": 8
+        },
+        {
+          "source_id": "gddt",
+          "page": 9
+        },
+        {
+          "source_id": "gddt",
+          "page": 10
+        },
+        {
+          "source_id": "gddt",
+          "page": 11
+        },
+        {
+          "source_id": "gddt",
+          "page": 12
+        },
+        {
+          "source_id": "gddt",
+          "page": 13
+        },
+        {
+          "source_id": "gddt",
+          "page": 14
+        },
+        {
+          "source_id": "gddt",
+          "page": 15
+        },
+        {
+          "source_id": "gddt",
+          "page": 16
+        },
+        {
+          "source_id": "gddt",
+          "page": 17
+        },
+        {
+          "source_id": "gddt",
+          "page": 18
+        },
+        {
+          "source_id": "gddt",
+          "page": 19
+        },
+        {
+          "source_id": "gddt",
+          "page": 20
+        },
+        {
+          "source_id": "gddt",
+          "page": 21
+        },
+        {
+          "source_id": "gddt",
+          "page": 22
+        },
+        {
+          "source_id": "gddt",
+          "page": 23
+        },
+        {
+          "source_id": "gddt",
+          "page": 24
+        },
+        {
+          "source_id": "gddt",
+          "page": 25
+        },
+        {
+          "source_id": "gddt",
+          "page": 26
+        }
+      ],
+      "page_count": 49,
+      "method": "Scanned all indexed page texts and document article coverage; read related provisions semantically. Keyword matches are navigation evidence, not the sole basis for absence.",
+      "absence_reason": "Luật quy định điều kiện, trách nhiệm và chế độ báo cáo, không chứa danh sách/số liệu tổ chức được cấp phép tại ngày được hỏi.",
+      "keyword_scan": [
+        {
+          "term": "thống kê",
+          "matching_pages": [
+            {
+              "source_id": "gddt",
+              "page": 22
+            },
+            {
+              "source_id": "gddt",
+              "page": 24
+            },
+            {
+              "source_id": "dulieu",
+              "page": 5
+            },
+            {
+              "source_id": "dulieu",
+              "page": 19
+            }
+          ]
+        },
+        {
+          "term": "báo cáo",
+          "matching_pages": [
+            {
+              "source_id": "gddt",
+              "page": 13
+            },
+            {
+              "source_id": "gddt",
+              "page": 15
+            },
+            {
+              "source_id": "gddt",
+              "page": 22
+            },
+            {
+              "source_id": "gddt",
+              "page": 23
+            },
+            {
+              "source_id": "gddt",
+              "page": 24
+            },
+            {
+              "source_id": "dulieu",
+              "page": 5
+            }
+          ]
+        },
+        {
+          "term": "tổ chức cung cấp",
+          "matching_pages": [
+            {
+              "source_id": "gddt",
+              "page": 3
+            },
+            {
+              "source_id": "gddt",
+              "page": 11
+            },
+            {
+              "source_id": "gddt",
+              "page": 12
+            },
+            {
+              "source_id": "gddt",
+              "page": 13
+            },
+            {
+              "source_id": "gddt",
+              "page": 14
+            },
+            {
+              "source_id": "gddt",
+              "page": 15
+            },
+            {
+              "source_id": "gddt",
+              "page": 16
+            },
+            {
+              "source_id": "gddt",
+              "page": 26
+            },
+            {
+              "source_id": "dulieu",
+              "page": 8
+            },
+            {
+              "source_id": "dulieu",
+              "page": 10
+            },
+            {
+              "source_id": "dulieu",
+              "page": 11
+            },
+            {
+              "source_id": "dulieu",
+              "page": 21
+            },
+            {
+              "source_id": "dulieu",
+              "page": 22
+            }
+          ]
+        },
+        {
+          "term": "2026",
+          "matching_pages": [
+            {
+              "source_id": "gddt",
+              "page": 1
+            },
+            {
+              "source_id": "gddt",
+              "page": 3
+            },
+            {
+              "source_id": "gddt",
+              "page": 4
+            },
+            {
+              "source_id": "gddt",
+              "page": 10
+            },
+            {
+              "source_id": "gddt",
+              "page": 15
+            },
+            {
+              "source_id": "gddt",
+              "page": 19
+            },
+            {
+              "source_id": "gddt",
+              "page": 20
+            },
+            {
+              "source_id": "gddt",
+              "page": 21
+            },
+            {
+              "source_id": "gddt",
+              "page": 22
+            },
+            {
+              "source_id": "gddt",
+              "page": 25
+            }
+          ]
+        }
+      ],
+      "related_pages_reviewed": [
+        {
+          "source_id": "gddt",
+          "page": 14,
+          "text": "tổ chức cung cấp dịch vụ chứng thực chữ ký điện tử nước ngoài tại Việt Nam ; công nhận chữ ký điện tử nước ngoài, chứng thư chữ ký điện tử nước ngoài tại Việt Nam.\n\nĐiều 27. Chữ ký điện tử nước ngoài, c hứng thư chữ ký điện tử nước ngoài được chấp nhận trong giao dịch quốc tế\n\n1. Chữ ký điện tử nước ngoài, chứng thư chữ ký điện tử nước ngoài được chấp nhận trong giao dịch quốc tế là chữ ký điện tử nước ngoài, chứng thư chữ ký điện tử nước ngoài của tổ chức, cá nhân nước ngoài không hiện diện tại Việt Nam, có hiệu lực trên thông điệp dữ liệu gửi đến tổ chức, cá nhân Việt Nam.\n\n2. Tổ chức, cá nhân lựa chọn và chịu trách nhiệm về việc chấp nhận chữ ký điện tử nước ngoài, chứng thư chữ ký điện tử nước ngoài trên thông điệp dữ liệu trong giao dịch quốc tế.\n\nMục 2 DỊCH VỤ TIN CẬY\n\nĐiều 28. Dịch vụ tin cậy\n\n1. Dịch vụ tin cậy bao gồm:\n\na) Dịch vụ cấp dấu thời gian;\n\nb) Dịch vụ chứng thực thông điệp dữ liệu;\n\nc) Dịch vụ chứng thực chữ ký số công cộng.\n\n2. Dịch vụ tin cậy là ngành, nghề đầu tư kinh doanh có điều kiện.\n\n3. Tổ chức cung cấp dịch vụ tin cậy phải có giấy phép kinh doanh dịch vụ do Bộ Thông tin và Truyền thông cấp, trừ dịch vụ chứng thực hợp đồng điện tử trong thương mại. Tổ chức được quyền đăng ký một hoặc các dịch vụ quy định tại khoản 1 Điều này. Thời hạn của giấy phép kinh doanh dịch vụ tin cậy là 10 năm. Tổ chức cung cấp dịch vụ chứng thực hợp đồng điện tử trong thương mại phải đáp ứng điều kiện hoạt động cung cấp dịch vụ chứng thực hợp đồng điện tử theo quy định của pháp luật về thương mại điện tử và điều kiện kinh doanh dịch vụ tin cậy theo quy định tại Điều 29 của Luật này.\n\n4. Chính phủ quy định chi tiết hoạt động của tổ chức cung cấp dịch vụ tin cậy; quy trình, thủ tục, hồ sơ cấp, gia hạn, thay đổi, cấp lại, tạm đình chỉ, thu hồi giấy phép kinh doanh dịch vụ tin cậy và các nội dung khác quy định tại Điều này.\n\nĐiều 29. Điều kiện kinh doanh dịch vụ tin cậy\n\n1. Điều kiện kinh doanh dịch vụ tin cậy bao gồm:\n\na) Là doanh nghiệp được thành lập và hoạt động hợp pháp trên lãnh thổ Việt Nam;\n\nb) Đáp ứng điều kiện tài chính, nhân lực quản lý và kỹ thuật phù hợp với từng loại dịch vụ tin cậy quy định tại khoản 1 Điều 28 của Luật này;"
+        },
+        {
+          "source_id": "gddt",
+          "page": 15,
+          "text": "c) Hệ thống thông tin cung cấp dịch vụ tin cậy đáp ứng yêu cầu bảo đảm an ninh mạng7 tối thiểu cấp độ 3 theo quy định của pháp luật về an toàn thông tin mạng;\n\nd) Có phương án kỹ thuật phục vụ hoạt động cung cấp dịch vụ phù hợp với từng loại dịch vụ tin cậy quy định tại khoản 1 Điều 28 của Luật này;\n\nđ) Có phương án sẵn sàng kết nối kỹ thuật phục vụ giám sát, kiểm tra, báo cáo số liệu bằng phương tiện điện tử đáp ứng yêu cầu quản lý nhà nước về dịch vụ tin cậy.\n\n2. Chính phủ quy định chi tiết khoản 1 Điều này.\n\nĐiều 30. Trách nhiệm của tổ chức cung cấp dịch vụ tin cậy\n\n1. Công bố công khai quy trình đăng ký sử dụng dịch vụ, biểu mẫu và chi phí liên quan.\n\n2. Bảo đảm kênh tiếp nhận thông tin và cung cấp dịch vụ liên tục 24 giờ trong ngày và 07 ngày trong tuần.\n\n3. Thực hiện chế độ lưu trữ hồ sơ, tài liệu và kết nối, cung cấp thông tin, số liệu báo cáo bằng phương tiện điện tử theo quy định của pháp luật.\n\n4. Bảo đảm trang thiết bị trong hệ thống thông tin được cấp mã quản lý, sẵn sàng kết nối kỹ thuật phục vụ công tác quản lý nhà nước về dịch vụ tin cậy.\n\n5. Thực hiện biện pháp nghiệp vụ, tạm dừng, chấm dứt cung cấp dịch vụ hoặc biện pháp nghiệp vụ khác theo yêu cầu của cơ quan có thẩm quyền theo quy định của pháp luật.\n\n6. Thực hiện trách nhiệm của chủ quản hệ thống thông tin phục vụ cung cấp dịch vụ tin cậy đáp ứng yêu cầu bảo đảm an ninh mạng8 tối thiểu cấp độ 3 theo quy định của pháp luật về an toàn thông tin mạng.\n\n7. Định kỳ hằng năm , báo cáo về hoạt động cung cấp dịch vụ tin cậy theo quy định của cơ quan có thẩm quyền.\n\n8. Nộp phí dịch vụ duy trì hệ thống kiểm tra trạng thái chứng thư chữ ký số theo quy định của pháp luật về phí và lệ phí.\n\nĐiều 31. Dịch vụ cấp dấu thời gian\n\n1. Dịch vụ cấp dấu thời gian là dịch vụ để gắn thông tin về thời gian vào thông điệp dữ liệu.\n\n2. Dấu thời gian được tạo ra dưới dạng chữ ký số.\n\n7 Cụm từ “an toàn thông tin mạng” được thay thế bằng cụm từ “an ninh mạng” theo quy định tại điểm c khoản 8 Điều 43 của Luật An ninh mạng số 116/2025/QH15, có hiệu lực kể từ ngày 01 tháng 7 năm 2026. 8 Cụm từ “an toàn thông tin mạng” được thay thế bằng cụm từ “an ninh mạng” theo quy định tại điểm c khoản 8 Điều 43 của Luật An ninh mạng số 116/2025/QH15, có hiệu lực kể từ ngày 01 tháng 7 năm 2026."
+        },
+        {
+          "source_id": "gddt",
+          "page": 23,
+          "text": "a) Tuân thủ quy định tại khoản 1 Điều này;\n\nb) Công bố công khai, phổ biến cơ chế phản ánh vướng mắc và xử lý vướng mắc phát sinh trong giao dịch điện tử;\n\nc) Công bố công khai, phổ biến cơ chế phản ánh và xử lý nội dung vi phạm pháp luật Việt Nam trên nền tảng số trung gian từ nguồn phản ánh được đánh giá là tin cậy;\n\nd) Định kỳ hằng năm, báo cáo theo hướng dẫn của Bộ Thông tin và Truyền thông về vụ việc đã xảy ra hoặc vụ việc có dấu hiệu, nguy cơ lợi dụng hệ thống thông tin để thực hiện hành vi vi phạm pháp luật Việt Nam.\n\n3. Chủ quản nền tảng số trung gian quy mô rất lớn phục vụ giao dịch điện tử có trách nhiệm sau đây:\n\na) Tuân thủ quy định tại khoản 2 Điều này;\n\nb) Công bố công khai nguyên tắc chung, thông số hoặc tiêu chí được sử dụng để đưa ra khuyến nghị hiển thị nội dung, hiển thị quảng cáo cho người sử dụng và cho phép người sử dụng lựa chọn phương án không sử dụng khuyến nghị hiển thị nội dung, hiển thị quảng cáo dựa trên phân tích dữ liệu về người sử dụng;\n\nc) Cho phép người sử dụng tháo gỡ cài đặt bất kỳ ứng dụng nào được cài đặt sẵn mà không ảnh hưởng đến các tính năng kỹ thuật cơ bản để hệ thống vận hành bình thường;\n\nd) Công bố công khai và phổ biến bộ quy tắc ứng xử áp dụng đối với các bên liên quan tham gia sử dụng hệ thống.\n\n4. Chính phủ quy định chi tiết trách nhiệm của chủ quản nền tảng số trung gian tại khoản 2 và khoản 3 Điều này phù hợp với quy mô , số lượng người sử dụng tại Việt Nam hoặc số lượng truy cập từ người sử dụng tại Việt Nam.\n\nĐiều 48. Báo cáo, tổng hợp, chia sẻ dữ liệu phục vụ quản lý nhà nước về giao dịch điện tử\n\n1. Cơ quan nhà nước quản lý công tác báo cáo, tổng hợp, chia sẻ dữ liệu phục vụ quản lý nhà nước về giao dịch điện tử theo quy định của pháp luật, phù hợp với chức năng, nhiệm vụ, quyền hạn được phân công.\n\n2. Bộ Thông tin và Truyền thông thiết lập, vận hành hệ thống tiếp nhận, tổng hợp dữ liệu phục vụ quản lý nhà nước về giao dịch điện tử của cơ quan nhà nước quy định tại khoản 1 Điều này theo quy định của Chính phủ; chủ trì xây dựng, ban hành hoặc đề nghị cơ quan nhà nước có thẩm quyền ban hành quy định về kỹ thuật đối với mô hình tham chiếu kết nối phục vụ chia sẻ dữ liệu bằng phương tiện điện tử, định danh thiết bị, tiêu chí tín nhiệm mạng của hệ thống thông tin phục vụ giao dịch điện tử."
+        },
+        {
+          "source_id": "gddt",
+          "page": 24,
+          "text": "Chương VII QUẢN LÝ NHÀ NƯỚC VỀ GIAO DỊCH ĐIỆN TỬ\n\nĐiều 49. Nội dung quản lý nhà nước về giao dịch điện tử\n\n1. Xây dựng, ban hành, tổ chức thực hiện chiến lược, kế hoạch và chính sách phát triển giao dịch điện tử; văn bản quy phạm pháp luật về giao dịch điện tử; tiêu chuẩn, quy chuẩn kỹ thuật, yêu cầu kỹ thuật , định mức kinh tế - kỹ thuật, chất lượng sản phẩm, dịch vụ trong giao dịch điện tử.\n\n2. Quản lý công tác báo cáo, đo lường, thống kê hoạt động giao dịch điện tử; quản lý việc giám sát an toàn hệ thống thông tin phục vụ giao dịch điện tử của chủ quản hệ thống thông tin.\n\n3. Quản lý dịch vụ tin cậy.\n\n4. Quản lý, tổ chức việc xây dựng, khai thác và phát triển hạ tầng chứng thực điện tử quốc gia; việc phát hành, thu hồi chứng thư chữ ký số.\n\n5. Quy định việc liên thông giữa các hệ thống cung cấp dịch vụ chữ ký số công cộng và chữ ký số chuyên dùng công vụ.\n\n6. Tuyên truyền, phổ biến chính sách, pháp luật trong giao dịch điện tử.\n\n7. Quản lý công tác đào tạo, bồi dưỡng, phát tri ển nguồn nhân lực, chuyên gia trong giao dịch điện tử.\n\n8. Thanh tra, kiểm tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật về giao dịch điện tử.\n\n9. Hợp tác quốc tế về giao dịch điện tử.\n\nĐiều 50. Trách nhiệm quản lý nhà nước về giao dịch điện tử\n\n1. Chính phủ thống nhất quản lý nhà nước về giao dịch điện tử.\n\n2. Bộ Thông tin và Truyền thông là cơ quan đầu mối chịu trách nhiệm trước Chính phủ trong việc chủ trì, phối hợp với các B ộ, cơ quan ngang Bộ thực hiện quản lý nhà nước về giao dịch điện tử.\n\n3. Bộ, cơ quan ngang Bộ, Ủy ban nhân dân cấp tỉnh phối hợp với Bộ Thông tin và Truyền thông thực hiện quản lý nhà nước về giao dịch điện tử trong lĩnh vực, địa bàn thuộc phạm vi nhiệm vụ, quyền hạn được phân công.\n\n4. Bộ trưởng Bộ Quốc phòng thực hiện quản lý nhà nước về giao dịch điện tử trong lĩnh vực cơ yếu, chữ ký số chuyên dùng công vụ trên cơ sở tiêu chuẩn, quy chuẩn kỹ thuật quốc gia về chữ ký số theo quy định của pháp luật."
+        }
+      ],
+      "excluded_scope": "gddt physical page 27 has no extracted text and is not indexed; no claim about external decrees, live registries or non-indexed images."
+    },
+    {
+      "id": "UDEV05",
+      "reviewer": "Codex",
+      "human_confirmed": false,
+      "scope": [
+        {
+          "source_id": "dulieu",
+          "page": 1
+        },
+        {
+          "source_id": "dulieu",
+          "page": 2
+        },
+        {
+          "source_id": "dulieu",
+          "page": 3
+        },
+        {
+          "source_id": "dulieu",
+          "page": 4
+        },
+        {
+          "source_id": "dulieu",
+          "page": 5
+        },
+        {
+          "source_id": "dulieu",
+          "page": 6
+        },
+        {
+          "source_id": "dulieu",
+          "page": 7
+        },
+        {
+          "source_id": "dulieu",
+          "page": 8
+        },
+        {
+          "source_id": "dulieu",
+          "page": 9
+        },
+        {
+          "source_id": "dulieu",
+          "page": 10
+        },
+        {
+          "source_id": "dulieu",
+          "page": 11
+        },
+        {
+          "source_id": "dulieu",
+          "page": 12
+        },
+        {
+          "source_id": "dulieu",
+          "page": 13
+        },
+        {
+          "source_id": "dulieu",
+          "page": 14
+        },
+        {
+          "source_id": "dulieu",
+          "page": 15
+        },
+        {
+          "source_id": "dulieu",
+          "page": 16
+        },
+        {
+          "source_id": "dulieu",
+          "page": 17
+        },
+        {
+          "source_id": "dulieu",
+          "page": 18
+        },
+        {
+          "source_id": "dulieu",
+          "page": 19
+        },
+        {
+          "source_id": "dulieu",
+          "page": 20
+        },
+        {
+          "source_id": "dulieu",
+          "page": 21
+        },
+        {
+          "source_id": "dulieu",
+          "page": 22
+        },
+        {
+          "source_id": "dulieu",
+          "page": 23
+        },
+        {
+          "source_id": "gddt",
+          "page": 1
+        },
+        {
+          "source_id": "gddt",
+          "page": 2
+        },
+        {
+          "source_id": "gddt",
+          "page": 3
+        },
+        {
+          "source_id": "gddt",
+          "page": 4
+        },
+        {
+          "source_id": "gddt",
+          "page": 5
+        },
+        {
+          "source_id": "gddt",
+          "page": 6
+        },
+        {
+          "source_id": "gddt",
+          "page": 7
+        },
+        {
+          "source_id": "gddt",
+          "page": 8
+        },
+        {
+          "source_id": "gddt",
+          "page": 9
+        },
+        {
+          "source_id": "gddt",
+          "page": 10
+        },
+        {
+          "source_id": "gddt",
+          "page": 11
+        },
+        {
+          "source_id": "gddt",
+          "page": 12
+        },
+        {
+          "source_id": "gddt",
+          "page": 13
+        },
+        {
+          "source_id": "gddt",
+          "page": 14
+        },
+        {
+          "source_id": "gddt",
+          "page": 15
+        },
+        {
+          "source_id": "gddt",
+          "page": 16
+        },
+        {
+          "source_id": "gddt",
+          "page": 17
+        },
+        {
+          "source_id": "gddt",
+          "page": 18
+        },
+        {
+          "source_id": "gddt",
+          "page": 19
+        },
+        {
+          "source_id": "gddt",
+          "page": 20
+        },
+        {
+          "source_id": "gddt",
+          "page": 21
+        },
+        {
+          "source_id": "gddt",
+          "page": 22
+        },
+        {
+          "source_id": "gddt",
+          "page": 23
+        },
+        {
+          "source_id": "gddt",
+          "page": 24
+        },
+        {
+          "source_id": "gddt",
+          "page": 25
+        },
+        {
+          "source_id": "gddt",
+          "page": 26
+        }
+      ],
+      "page_count": 49,
+      "method": "Scanned all indexed page texts and document article coverage; read related provisions semantically. Keyword matches are navigation evidence, not the sole basis for absence.",
+      "absence_reason": "Các điều về trách nhiệm, bảo vệ dữ liệu và kênh tiếp nhận không cung cấp số hotline hoặc địa chỉ email liên hệ thực tế.",
+      "keyword_scan": [
+        {
+          "term": "điện thoại",
+          "matching_pages": []
+        },
+        {
+          "term": "đường dây nóng",
+          "matching_pages": []
+        },
+        {
+          "term": "email",
+          "matching_pages": []
+        },
+        {
+          "term": "sự cố",
+          "matching_pages": [
+            {
+              "source_id": "gddt",
+              "page": 21
+            }
+          ]
+        }
+      ],
+      "related_pages_reviewed": [
+        {
+          "source_id": "dulieu",
+          "page": 13,
+          "text": "3. Tập trung nguồn lực quốc gia cho hoạt động phát triển, ứng d ụng nền tảng khoa học và công nghệ trong xây dự ng, phát triển, bảo vệ, quản trị, xử lý, sử dụng dữ liệu phục vụ chuyển đổi số quốc gia, bảo đảm quốc phòng, an ninh, phát triển kinh tế - xã hội.\n\n4. Chính phủ quy định việc quản l ý, phát triển, thử nghiệm có k iểm soát các hoạt động nghiên cứu, ứng dụng kh oa học, công nghệ và đổi mới s áng tạo trong xây dựng, phát triển, bảo vệ, quản trị, xử lý, sử dụng dữ liệu.\n\nĐiều 25. Xác định và quản lý rủi ro phát sinh trong xử lý dữ liệu\n\n1. Rủi ro phát sinh trong xử lý dữ liệu bao gồm: rủi ro quyền r iêng tư, rủi ro an ninh mạng, rủi ro nhận dạng và quản lý truy cập, rủi ro khác trong xử lý dữ liệu.\n\n2. Cơ quan nhà nước phải xác định, thiết lập cơ chế cảnh báo sớ m về rủi ro phát sinh trong xử lý dữ liệu, xây dựng biện pháp để bảo vệ dữ liệu.\n\n3. Chủ quản dữ liệu không thuộc quy định tại khoản 2 Điều này t ự đánh giá, xác định rủi ro và thực hiện các biện pháp để bảo vệ dữ liệu; k ịp thời khắc phục rủi ro phát sinh và thông báo cho chủ thể dữ liệu, cơ quan, tổ chức, cá nhân có liên quan.\n\n4. Chủ quản dữ liệu cốt lõi, dữ liệu quan trọng phải định kỳ ti ến hành đánh giá rủi ro đối với các hoạt động xử lý dữ liệu đó theo quy định và thông báo tới đơn vị chuyên trách về an ninh mạng, a n toàn thông tin thuộc Bộ Công a n, Bộ Quốc phòng và cơ quan có liên quan để phối hợp thực hiện việc bảo vệ an toàn, an ninh dữ liệu.\n\n5. Chính phủ quy định chi tiết Điều này.\n\nĐiều 26. Các hoạt động khác trong xử lý dữ liệu\n\n1. Chủ thể dữ liệu có quyền yêu cầu chủ sở hữu dữ liệu, chủ quả n dữ liệu thu hồi, xóa hoặc hủy dữ liệu của mì nh đã cung cấp, t rừ trường hợp pháp luật có quy định khác. Chủ quản dữ liệu có t rách nhiệm thiết lập quy trình, triển khai các biện pháp, phương thức thu hồi, xóa hoặc hủy dữ liệu theo yêu cầu của chủ thể dữ liệu.\n\n2. Cơ quan nhà nước tổ chức thực hiện điều chỉnh, cập nhật dữ l iệu thường xuyên, liên tục; quyết định lưu trữ lịch sử quá trình thực hiện kết hợp, điều chỉnh, cập nhật, sao chép, truyền đưa, chuyển giao, thu hồi, xóa, hủy dữ liệu do mình quản lý.\n\n3. Chủ sở hữu dữ liệu, chủ quản dữ liệu không thuộc quy định tại khoản 2 Điều này thực hiện kết hợp, điều chỉnh, cập nhật, sao chép, truyền đ ưa, chuyển giao dữ liệu theo quy định của Luật này và quy định khác của pháp luật có liên quan.\n\n4. Chính phủ quy định chi tiết Điều này."
+        },
+        {
+          "source_id": "dulieu",
+          "page": 14,
+          "text": "Điều 27. Bảo vệ dữ liệu\n\n1. Biện pháp bảo vệ dữ liệu được áp dụng trong toàn bộ quá trình xử lý dữ liệu, bao gồm:\n\na) Xây dựng và tổ chức thực hiện chính sách, quy định bảo vệ dữ liệu;\n\nb) Quản lý hoạt động xử lý dữ liệu;\n\nc) Xây dựng và triển khai các giải pháp kỹ thuật;\n\nd) Đào tạo, bồi dưỡng, phát triển, quản lý nguồn nhân lực;\n\nđ) Các biện pháp bảo vệ dữ liệu khác theo quy định của pháp luật.\n\n2. Cơ quan nhà nước phải bảo vệ dữ liệu trong ngành, lĩnh vực do mình quản lý, tuân thủ các chính sách chung về quốc phòng, an ninh; thiết lập hệ thống bảo vệ dữ liệu thống nhất để đánh giá rủi ro an ninh dữ liệu, giám sát và cảnh báo sớm.\n\n3. Chủ sở hữu dữ liệu, chủ quản dữ liệu quản lý dữ liệu cốt lõi , dữ liệu quan trọng phải tuân thủ các quy định về bảo vệ dữ liệu.\n\n4. Chính phủ quy định chi tiết Điều này.\n\nĐiều 28. Tiêu chuẩn, quy chuẩn kỹ thuật về dữ liệu\n\n1. Tiêu chuẩn về dữ liệu gồm tiêu chuẩn đối với hệ thống thông tin, phần cứng, phần mềm, hệ thống quản lý, vận hành, xử lý, bảo đảm chất lượng dữ liệu, bảo vệ dữ liệu được công bố, thừa nhận áp dụng tại Việt Nam.\n\n2. Quy chuẩn kỹ thuật về dữ liệ u gồm quy chuẩn kỹ thuật đối với hệ thống thông tin, phần cứng, phần mềm, hệ thống quản lý, vận hành, xử lý, bảo đảm chất lượng dữ liệu, bảo vệ dữ liệu được xây dựng, ban hành và áp dụng tại Việt Nam.\n\n3. Bộ Công an chủ trì, phối hợp với cơ quan có liên quan ban hà nh danh mục tiêu chuẩn, quy chuẩn kỹ thuật về dữ liệu; trừ danh mục tiêu ch uẩn, quy chuẩn kỹ thuật về dữ liệu thuộc lĩnh vực quốc phòng, cơ yếu.\n\n4. Cơ quan quản lý cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành phải xây dựng tiêu chuẩn, quy chuẩn kỹ thuật về dữ liệu theo danh mụ c đã ban hành theo quy định tại khoản 3 Điều này.\n\nĐiều 29. Quỹ phát triển dữ liệu quốc gia\n\n1. Quỹ phát triển dữ liệu quốc gia là quỹ tài chính nhà nước ng oài ngân sách, được hình thành ở trung ương để t húc đẩy phát triển, khai thác, ứng dụng, quản trị dữ liệu quốc gia."
+        },
+        {
+          "source_id": "dulieu",
+          "page": 16,
+          "text": "dữ liệu; Cổng dịch vụ công quốc g ia; hạ tầng công nghệ xử lý dữ liệu và phân bổ tài nguyên; hệ thống phân tích dữ liệu phục vụ công tác quản lý, chỉ đạo điều hành; hệ thống, phần mềm quản lý, khai thác, cung cấp dịch vụ dữ liệu, cổng dữ liệu mở, cổng dịch vụ dữ liệu; các nền t ảng, phần mềm, hệ thống nghiệp v ụ khác do Chính phủ, Thủ tướng Chính phủ quyết định.\n\n2. Cơ sở dữ liệu quốc gia phải sử dụng cơ sở hạ tầng của Trung tâm dữ liệu quốc gia. Căn cứ vào nhu cầu, cơ sở dữ liệu thuộc lĩnh vực quốc phòng, an ninh, đối ngoại, cơ yếu và cơ sở dữ liệu c huyên ngành, cơ sở dữ liệu khác sử dụng cơ sở hạ tầng của Trung tâm dữ liệu quốc gia.\n\n3. Chính phủ quy định chi tiết Điều này.\n\nĐiều 31. Trách nhiệm của Trung tâm dữ liệu quốc gia\n\n1. Tích hợp, đồng bộ, lưu trữ, phân tích, khai thác dữ liệu của các cơ quan nhà nước theo quy định của pháp luật nhằm tạo lập, quản trị Cơ sở d ữ liệu tổng hợp quốc gia.\n\n2. Quản trị, vận hành hạ tầng kỹ thuật, hạ tầng công nghệ thông tin và sàn dữ liệu tại Trung tâm dữ liệu quốc g ia; cung cấp hạ tầng kỹ thuật, hạ tầng công nghệ thông tin cho các cơ quan Đảng, Nhà nước, Ủy ban Mặt trận Tổ qu ốc Việt Nam và các tổ chức chính trị - xã hội khi có nhu cầu sử dụng.\n\n3. Tổ chức vận hành, quản trị, lưu trữ, quản lý, khai thác, điề u phối dữ liệu trong Cơ sở dữ liệu tổng hợp quốc gia cho cơ quan Đảng, Nhà nướ c, Ủy ban Mặt trận Tổ quốc Việt Nam và các tổ chức chính trị - xã hội để thực hiện chức năng, nhiệm vụ được giao hoặc theo yêu cầu của chủ sở hữu dữ liệu, ch ủ quản dữ liệu, chủ thể dữ liệu phù hợp với quy định của pháp luật.\n\n4. Giám sát việc bảo đảm chất lượng dữ liệu, hoạt động điều phố i dữ liệu; xây dựng các hệ thống chỉ số đo lư ờng và đánh giá hiệu suất cho hoạt động quản trị dữ liệu.\n\n5. Thực hiện biện pháp bảo vệ dữ liệu.\n\n6. Nghiên cứu khoa học về dữ liệu, ứng dụng công nghệ trong xử lý dữ liệu, cung cấp hạ tầng công nghệ, sản phẩm, dịch vụ về dữ liệu; hỗ tr ợ tổ chức, cá nhân trong xử lý dữ liệu; xây dựng trung tâm đổi mới sáng tạo, hỗ tr ợ đổi mới sáng tạo về khoa học dữ liệu; phát triển hoạt động đổi mới sáng tạo về k hoa học dữ liệu; phát triển hệ sinh thái khởi nghiệp đổi mới sáng tạo về khoa họ c và công nghệ trên nền tảng dữ liệu của Cơ sở dữ liệu tổng hợp quốc gia."
+        },
+        {
+          "source_id": "gddt",
+          "page": 15,
+          "text": "c) Hệ thống thông tin cung cấp dịch vụ tin cậy đáp ứng yêu cầu bảo đảm an ninh mạng7 tối thiểu cấp độ 3 theo quy định của pháp luật về an toàn thông tin mạng;\n\nd) Có phương án kỹ thuật phục vụ hoạt động cung cấp dịch vụ phù hợp với từng loại dịch vụ tin cậy quy định tại khoản 1 Điều 28 của Luật này;\n\nđ) Có phương án sẵn sàng kết nối kỹ thuật phục vụ giám sát, kiểm tra, báo cáo số liệu bằng phương tiện điện tử đáp ứng yêu cầu quản lý nhà nước về dịch vụ tin cậy.\n\n2. Chính phủ quy định chi tiết khoản 1 Điều này.\n\nĐiều 30. Trách nhiệm của tổ chức cung cấp dịch vụ tin cậy\n\n1. Công bố công khai quy trình đăng ký sử dụng dịch vụ, biểu mẫu và chi phí liên quan.\n\n2. Bảo đảm kênh tiếp nhận thông tin và cung cấp dịch vụ liên tục 24 giờ trong ngày và 07 ngày trong tuần.\n\n3. Thực hiện chế độ lưu trữ hồ sơ, tài liệu và kết nối, cung cấp thông tin, số liệu báo cáo bằng phương tiện điện tử theo quy định của pháp luật.\n\n4. Bảo đảm trang thiết bị trong hệ thống thông tin được cấp mã quản lý, sẵn sàng kết nối kỹ thuật phục vụ công tác quản lý nhà nước về dịch vụ tin cậy.\n\n5. Thực hiện biện pháp nghiệp vụ, tạm dừng, chấm dứt cung cấp dịch vụ hoặc biện pháp nghiệp vụ khác theo yêu cầu của cơ quan có thẩm quyền theo quy định của pháp luật.\n\n6. Thực hiện trách nhiệm của chủ quản hệ thống thông tin phục vụ cung cấp dịch vụ tin cậy đáp ứng yêu cầu bảo đảm an ninh mạng8 tối thiểu cấp độ 3 theo quy định của pháp luật về an toàn thông tin mạng.\n\n7. Định kỳ hằng năm , báo cáo về hoạt động cung cấp dịch vụ tin cậy theo quy định của cơ quan có thẩm quyền.\n\n8. Nộp phí dịch vụ duy trì hệ thống kiểm tra trạng thái chứng thư chữ ký số theo quy định của pháp luật về phí và lệ phí.\n\nĐiều 31. Dịch vụ cấp dấu thời gian\n\n1. Dịch vụ cấp dấu thời gian là dịch vụ để gắn thông tin về thời gian vào thông điệp dữ liệu.\n\n2. Dấu thời gian được tạo ra dưới dạng chữ ký số.\n\n7 Cụm từ “an toàn thông tin mạng” được thay thế bằng cụm từ “an ninh mạng” theo quy định tại điểm c khoản 8 Điều 43 của Luật An ninh mạng số 116/2025/QH15, có hiệu lực kể từ ngày 01 tháng 7 năm 2026. 8 Cụm từ “an toàn thông tin mạng” được thay thế bằng cụm từ “an ninh mạng” theo quy định tại điểm c khoản 8 Điều 43 của Luật An ninh mạng số 116/2025/QH15, có hiệu lực kể từ ngày 01 tháng 7 năm 2026."
+        }
+      ],
+      "excluded_scope": "gddt physical page 27 has no extracted text and is not indexed; no claim about external decrees, live registries or non-indexed images."
+    },
+    {
+      "id": "UTEST01",
+      "reviewer": "Codex",
+      "human_confirmed": false,
+      "scope": [
+        {
+          "source_id": "dulieu",
+          "page": 1
+        },
+        {
+          "source_id": "dulieu",
+          "page": 2
+        },
+        {
+          "source_id": "dulieu",
+          "page": 3
+        },
+        {
+          "source_id": "dulieu",
+          "page": 4
+        },
+        {
+          "source_id": "dulieu",
+          "page": 5
+        },
+        {
+          "source_id": "dulieu",
+          "page": 6
+        },
+        {
+          "source_id": "dulieu",
+          "page": 7
+        },
+        {
+          "source_id": "dulieu",
+          "page": 8
+        },
+        {
+          "source_id": "dulieu",
+          "page": 9
+        },
+        {
+          "source_id": "dulieu",
+          "page": 10
+        },
+        {
+          "source_id": "dulieu",
+          "page": 11
+        },
+        {
+          "source_id": "dulieu",
+          "page": 12
+        },
+        {
+          "source_id": "dulieu",
+          "page": 13
+        },
+        {
+          "source_id": "dulieu",
+          "page": 14
+        },
+        {
+          "source_id": "dulieu",
+          "page": 15
+        },
+        {
+          "source_id": "dulieu",
+          "page": 16
+        },
+        {
+          "source_id": "dulieu",
+          "page": 17
+        },
+        {
+          "source_id": "dulieu",
+          "page": 18
+        },
+        {
+          "source_id": "dulieu",
+          "page": 19
+        },
+        {
+          "source_id": "dulieu",
+          "page": 20
+        },
+        {
+          "source_id": "dulieu",
+          "page": 21
+        },
+        {
+          "source_id": "dulieu",
+          "page": 22
+        },
+        {
+          "source_id": "dulieu",
+          "page": 23
+        },
+        {
+          "source_id": "gddt",
+          "page": 1
+        },
+        {
+          "source_id": "gddt",
+          "page": 2
+        },
+        {
+          "source_id": "gddt",
+          "page": 3
+        },
+        {
+          "source_id": "gddt",
+          "page": 4
+        },
+        {
+          "source_id": "gddt",
+          "page": 5
+        },
+        {
+          "source_id": "gddt",
+          "page": 6
+        },
+        {
+          "source_id": "gddt",
+          "page": 7
+        },
+        {
+          "source_id": "gddt",
+          "page": 8
+        },
+        {
+          "source_id": "gddt",
+          "page": 9
+        },
+        {
+          "source_id": "gddt",
+          "page": 10
+        },
+        {
+          "source_id": "gddt",
+          "page": 11
+        },
+        {
+          "source_id": "gddt",
+          "page": 12
+        },
+        {
+          "source_id": "gddt",
+          "page": 13
+        },
+        {
+          "source_id": "gddt",
+          "page": 14
+        },
+        {
+          "source_id": "gddt",
+          "page": 15
+        },
+        {
+          "source_id": "gddt",
+          "page": 16
+        },
+        {
+          "source_id": "gddt",
+          "page": 17
+        },
+        {
+          "source_id": "gddt",
+          "page": 18
+        },
+        {
+          "source_id": "gddt",
+          "page": 19
+        },
+        {
+          "source_id": "gddt",
+          "page": 20
+        },
+        {
+          "source_id": "gddt",
+          "page": 21
+        },
+        {
+          "source_id": "gddt",
+          "page": 22
+        },
+        {
+          "source_id": "gddt",
+          "page": 23
+        },
+        {
+          "source_id": "gddt",
+          "page": 24
+        },
+        {
+          "source_id": "gddt",
+          "page": 25
+        },
+        {
+          "source_id": "gddt",
+          "page": 26
+        }
+      ],
+      "page_count": 49,
+      "method": "Scanned all indexed page texts and document article coverage; read related provisions semantically. Keyword matches are navigation evidence, not the sole basis for absence.",
+      "absence_reason": "Luật nêu hành vi bị nghiêm cấm và quản lý/xử lý vi phạm, không có khung tiền phạt cụ thể cho tình huống này.",
+      "keyword_scan": [
+        {
+          "term": "mức phạt",
+          "matching_pages": []
+        },
+        {
+          "term": "phạt tiền",
+          "matching_pages": []
+        },
+        {
+          "term": "vi phạm",
+          "matching_pages": [
+            {
+              "source_id": "gddt",
+              "page": 23
+            },
+            {
+              "source_id": "gddt",
+              "page": 24
+            },
+            {
+              "source_id": "dulieu",
+              "page": 5
+            },
+            {
+              "source_id": "dulieu",
+              "page": 19
+            }
+          ]
+        },
+        {
+          "term": "mua bán",
+          "matching_pages": []
+        }
+      ],
+      "related_pages_reviewed": [
+        {
+          "source_id": "dulieu",
+          "page": 5,
+          "text": "c) Quản lý, giám sát các hoạt động xây dựng, phát triển, bảo vệ, quản trị, xử lý, sử dụng dữ liệu, bảo đảm an ninh, an toàn dữ liệu;\n\nd) Báo cáo, thống kê về dữ liệu; nghiên cứu, ứng dụng khoa học và công nghệ về dữ liệu; sản phẩm, dịch vụ về dữ liệu; quản lý, giám sá t, phát triển thị trường dữ liệu;\n\nđ) Thanh tra, kiểm tra, giải quyết khiếu nại, tố cáo và xử lý v i phạm pháp luật về dữ liệu;\n\ne) Đào tạo, bồi dưỡng, phát triển nguồn nhân lực và hợp tác quốc tế về dữ liệu.\n\n2. Trách nhiệm quản lý nhà nước về dữ liệu được quy định như sau:\n\na) Chính phủ thống nhất quản lý nhà nước về dữ liệu;\n\nb) Bộ Công an là cơ quan đầu mối chịu trách nhiệm trước Chính p hủ thực hiện quản lý nhà nước về dữ liệu, trừ quy định tại điểm c khoản này;\n\nc) Bộ Quốc phòng chịu trách nhiệm trước Chính phủ thực hiện quả n lý nhà nước về dữ liệu thuộc phạm vi quản lý. Bộ trưởng Bộ Quốc phòng chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về dữ liệu cơ yếu thuộc phạm vi quản lý theo quy định của pháp luật về cơ yếu;\n\nd) Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ trong phạm vi chức năng, nhiệm vụ, quyền hạn của mình xây dựng, phát triển cơ sở dữ liệu; phối hợp với Bộ Công an thực hiện quản lý nhà nước về dữ liệu;\n\nđ) Ủy ban nhân dân cấp tỉnh xây dựng, phát triển cơ sở dữ liệu; thực hiện quản lý nhà nước về dữ liệu tại địa phương.\n\nĐiều 9. Xây dựng, phát triển dữ liệu trong các cơ quan Đảng, Ủy ban Mặt trận Tổ quốc Việt Nam và các tổ chức chính trị - xã hội\n\n1. Việc xây dựng, phát triển, bảo vệ, quản trị, xử lý, sử dụng dữ liệu trong các cơ quan Đảng, Ủy ban Mặt trận Tổ quốc Việt Nam và các tổ chức chính trị - xã hội do cơ quan có thẩm quyền quyết định.\n\n2. Tỉnh ủy, thành ủy trực thuộc t rung ương thực hiện xây dựng, phát triển, bảo vệ, quản trị, xử lý, sử dụng dữ liệu theo nhiệm vụ, quyền hạn của mình.\n\nĐiều 10. Các hành vi bị nghiêm cấm\n\n1. Lợi dụng việc xử lý dữ liệu, quản trị dữ liệu, phát triển, k inh doanh, lưu hành sản phẩm, dịch vụ về dữ liệu để xâm phạm đến lợi ích quốc gia, dân tộc, quốc"
+        },
+        {
+          "source_id": "dulieu",
+          "page": 6,
+          "text": "phòng, an ninh, trật tự, an toàn xã hội, lợi ích công cộng, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.\n\n2. Cản trở hoặc ngăn chặn trái pháp luật quá trình xử lý dữ liệ u, quản trị dữ liệu hoặc tấn công, chiếm đoạt, phá hoại cơ sở dữ liệu, hệ thốn g thông tin phục vụ quản lý, xử lý, quản trị, bảo vệ dữ liệu.\n\n3. Giả mạo, cố ý làm sai lệch, làm mất, làm hư hỏng dữ liệu tro ng cơ sở dữ liệu của cơ quan Đảng, Nhà nước, Ủy ban Mặt trận Tổ quốc Việt N am và các tổ chức chính trị - xã hội.\n\n4. Cố ý cung cấp dữ liệu sai lệch hoặc không cung cấp dữ liệu t heo quy định của pháp luật.\n\nChương II XÂY DỰNG, PHÁT TRIỂN, BẢO VỆ, QUẢN TRỊ, XỬ LÝ, SỬ DỤNG DỮ LIỆU; QUỸ PHÁT TRIỂN DỮ LIỆU QUỐC GIA\n\nĐiều 11. Thu thập, tạo lập dữ liệu\n\n1. Dữ liệu được thu thập, tạo lậ p từ các nguồn bao gồm: trực ti ếp tạo lập; số hóa giấy tờ, tài liệu và các dạng vật chất khác. Dữ liệu gốc được tạo lập có giá trị sử dụng như bản chính giấy tờ, tài liệu, các dạng vật chất khác được số hóa.\n\n2. Việc thu thập, tạo lập dữ liệu đối với cơ quan Đảng, Nhà nướ c, Ủy ban Mặt trận Tổ quốc Việt Nam và các tổ chức chính trị - xã hội được quy định như sau:\n\na) Thu thập, tạo lập dữ liệu để xây dựng cơ sở dữ liệu theo quy định của pháp luật hoặc quyết định của cấp có thẩm quyền và sử dụng thống nhấ t bảng mã danh mục dùng chung, thống nhất với dữ liệu chủ trong cơ sở dữ liệu quốc gia;\n\nb) Dữ liệu có trong các cơ sở dữ liệu được kết nối, chia sẻ thì không thu thập lại;\n\nc) Dữ liệu phục vụ quản lý nhà nước, bảo đảm quốc phòng, an nin h, đối ngoại, cơ yếu, thực hiện thủ tục hành chính, giải quyết dịch vụ công p hải được tạo lập, số hóa theo quy định của pháp luật;\n\nd) Thu thập từ kết quả giải quyết thủ tục hành chính; thu thập từ số hóa giấy tờ, tài liệu và các dạng vật chất kh ác; thu thập qua phương thức đi ện tử; thu thập trực tiếp từ tổ chức, cá nhân;"
+        },
+        {
+          "source_id": "gddt",
+          "page": 4,
+          "text": "dịch điện tử,4 pháp luật về an ninh mạng và quy định khác của pháp luật có liên quan khi thực hiện giao dịch điện tử.\n\n2. Thông tin trong thông điệp dữ liệu thuộc phạm vi bí mật nhà nước phải tuân thủ quy định của pháp luật về bảo vệ bí mật nhà nước và pháp luật về cơ yếu.\n\nĐiều 6. Các hành vi bị nghiêm cấm trong giao dịch điện tử\n\n1. Lợi dụng giao dịch điện tử xâm phạm đến lợi ích quốc gia, dân tộc, an ninh quốc gia, trật tự, an toàn xã hội, lợi ích công cộng, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.\n\n2. Cản trở hoặc ngăn chặn trái pháp luật quá trình tạo ra, gửi, nhận, lưu trữ thông điệp dữ liệu hoặc có hành vi khác nhằm phá hoại hệ thống thông tin phục vụ giao dịch điện tử.\n\n3. Thu thập, cung cấp, sử dụng, tiết lộ, hiển thị, phát tán, kinh doanh trái pháp luật thông điệp dữ liệu.\n\n4. Giả mạo, làm sai lệch hoặc xóa, hủy, sao chép, di chuyển trái pháp luật một phần hoặc toàn bộ thông điệp dữ liệu.\n\n5. Tạo ra thông điệp dữ liệu nhằm thực hiện hành vi trái pháp luật.\n\n6. Gian lận, giả mạo, chiếm đoạt hoặc sử dụng trái pháp luật tài khoản giao dịch điện tử, chứng thư điện tử, chứng thư chữ ký điện tử, chữ ký điện tử.\n\n7. Cản trở việc lựa chọn thực hiện giao dịch điện tử.\n\n8. Hành vi khác bị nghiêm cấm theo quy định của luật.\n\nChương II THÔNG ĐIỆP DỮ LIỆU\n\nMục 1 GIÁ TRỊ PHÁP LÝ CỦA THÔNG ĐIỆP DỮ LIỆU\n\nĐiều 7. Hình thức thể hiện của thông điệp dữ liệu\n\n1. Thông điệp dữ liệu được thể hiện dưới hình thức văn bản điện tử, tài liệu điện tử, chứng thư điện tử, chứng từ điện tử, hợp đồng điện tử, thư điện tử, điện tín, điện báo, fax và hình thức trao đổi dữ liệu điện tử khác theo quy định của pháp luật.\n\n2. Thông điệp dữ liệu được tạo ra, phát sinh trong quá trình giao dịch hoặc được chuyển đổi từ văn bản giấy.\n\nĐiều 8. Giá trị pháp lý của thông điệp dữ liệu Thông tin trong thông điệp dữ liệu không bị phủ nhận giá trị pháp lý chỉ vì thông tin đó được thể hiện dưới dạng thông điệp dữ liệu.\n\n4 Cụm từ “pháp luật về an toàn thông tin mạng,” được bãi bỏ theo quy định tại điểm b khoản 8 Điều 43 của Luật An ninh mạng số 116/2025/QH15, có hiệu lực kể từ ngày 01 tháng 7 năm 2026."
+        },
+        {
+          "source_id": "gddt",
+          "page": 24,
+          "text": "Chương VII QUẢN LÝ NHÀ NƯỚC VỀ GIAO DỊCH ĐIỆN TỬ\n\nĐiều 49. Nội dung quản lý nhà nước về giao dịch điện tử\n\n1. Xây dựng, ban hành, tổ chức thực hiện chiến lược, kế hoạch và chính sách phát triển giao dịch điện tử; văn bản quy phạm pháp luật về giao dịch điện tử; tiêu chuẩn, quy chuẩn kỹ thuật, yêu cầu kỹ thuật , định mức kinh tế - kỹ thuật, chất lượng sản phẩm, dịch vụ trong giao dịch điện tử.\n\n2. Quản lý công tác báo cáo, đo lường, thống kê hoạt động giao dịch điện tử; quản lý việc giám sát an toàn hệ thống thông tin phục vụ giao dịch điện tử của chủ quản hệ thống thông tin.\n\n3. Quản lý dịch vụ tin cậy.\n\n4. Quản lý, tổ chức việc xây dựng, khai thác và phát triển hạ tầng chứng thực điện tử quốc gia; việc phát hành, thu hồi chứng thư chữ ký số.\n\n5. Quy định việc liên thông giữa các hệ thống cung cấp dịch vụ chữ ký số công cộng và chữ ký số chuyên dùng công vụ.\n\n6. Tuyên truyền, phổ biến chính sách, pháp luật trong giao dịch điện tử.\n\n7. Quản lý công tác đào tạo, bồi dưỡng, phát tri ển nguồn nhân lực, chuyên gia trong giao dịch điện tử.\n\n8. Thanh tra, kiểm tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật về giao dịch điện tử.\n\n9. Hợp tác quốc tế về giao dịch điện tử.\n\nĐiều 50. Trách nhiệm quản lý nhà nước về giao dịch điện tử\n\n1. Chính phủ thống nhất quản lý nhà nước về giao dịch điện tử.\n\n2. Bộ Thông tin và Truyền thông là cơ quan đầu mối chịu trách nhiệm trước Chính phủ trong việc chủ trì, phối hợp với các B ộ, cơ quan ngang Bộ thực hiện quản lý nhà nước về giao dịch điện tử.\n\n3. Bộ, cơ quan ngang Bộ, Ủy ban nhân dân cấp tỉnh phối hợp với Bộ Thông tin và Truyền thông thực hiện quản lý nhà nước về giao dịch điện tử trong lĩnh vực, địa bàn thuộc phạm vi nhiệm vụ, quyền hạn được phân công.\n\n4. Bộ trưởng Bộ Quốc phòng thực hiện quản lý nhà nước về giao dịch điện tử trong lĩnh vực cơ yếu, chữ ký số chuyên dùng công vụ trên cơ sở tiêu chuẩn, quy chuẩn kỹ thuật quốc gia về chữ ký số theo quy định của pháp luật."
+        }
+      ],
+      "excluded_scope": "gddt physical page 27 has no extracted text and is not indexed; no claim about external decrees, live registries or non-indexed images."
+    },
+    {
+      "id": "UTEST02",
+      "reviewer": "Codex",
+      "human_confirmed": false,
+      "scope": [
+        {
+          "source_id": "dulieu",
+          "page": 1
+        },
+        {
+          "source_id": "dulieu",
+          "page": 2
+        },
+        {
+          "source_id": "dulieu",
+          "page": 3
+        },
+        {
+          "source_id": "dulieu",
+          "page": 4
+        },
+        {
+          "source_id": "dulieu",
+          "page": 5
+        },
+        {
+          "source_id": "dulieu",
+          "page": 6
+        },
+        {
+          "source_id": "dulieu",
+          "page": 7
+        },
+        {
+          "source_id": "dulieu",
+          "page": 8
+        },
+        {
+          "source_id": "dulieu",
+          "page": 9
+        },
+        {
+          "source_id": "dulieu",
+          "page": 10
+        },
+        {
+          "source_id": "dulieu",
+          "page": 11
+        },
+        {
+          "source_id": "dulieu",
+          "page": 12
+        },
+        {
+          "source_id": "dulieu",
+          "page": 13
+        },
+        {
+          "source_id": "dulieu",
+          "page": 14
+        },
+        {
+          "source_id": "dulieu",
+          "page": 15
+        },
+        {
+          "source_id": "dulieu",
+          "page": 16
+        },
+        {
+          "source_id": "dulieu",
+          "page": 17
+        },
+        {
+          "source_id": "dulieu",
+          "page": 18
+        },
+        {
+          "source_id": "dulieu",
+          "page": 19
+        },
+        {
+          "source_id": "dulieu",
+          "page": 20
+        },
+        {
+          "source_id": "dulieu",
+          "page": 21
+        },
+        {
+          "source_id": "dulieu",
+          "page": 22
+        },
+        {
+          "source_id": "dulieu",
+          "page": 23
+        },
+        {
+          "source_id": "gddt",
+          "page": 1
+        },
+        {
+          "source_id": "gddt",
+          "page": 2
+        },
+        {
+          "source_id": "gddt",
+          "page": 3
+        },
+        {
+          "source_id": "gddt",
+          "page": 4
+        },
+        {
+          "source_id": "gddt",
+          "page": 5
+        },
+        {
+          "source_id": "gddt",
+          "page": 6
+        },
+        {
+          "source_id": "gddt",
+          "page": 7
+        },
+        {
+          "source_id": "gddt",
+          "page": 8
+        },
+        {
+          "source_id": "gddt",
+          "page": 9
+        },
+        {
+          "source_id": "gddt",
+          "page": 10
+        },
+        {
+          "source_id": "gddt",
+          "page": 11
+        },
+        {
+          "source_id": "gddt",
+          "page": 12
+        },
+        {
+          "source_id": "gddt",
+          "page": 13
+        },
+        {
+          "source_id": "gddt",
+          "page": 14
+        },
+        {
+          "source_id": "gddt",
+          "page": 15
+        },
+        {
+          "source_id": "gddt",
+          "page": 16
+        },
+        {
+          "source_id": "gddt",
+          "page": 17
+        },
+        {
+          "source_id": "gddt",
+          "page": 18
+        },
+        {
+          "source_id": "gddt",
+          "page": 19
+        },
+        {
+          "source_id": "gddt",
+          "page": 20
+        },
+        {
+          "source_id": "gddt",
+          "page": 21
+        },
+        {
+          "source_id": "gddt",
+          "page": 22
+        },
+        {
+          "source_id": "gddt",
+          "page": 23
+        },
+        {
+          "source_id": "gddt",
+          "page": 24
+        },
+        {
+          "source_id": "gddt",
+          "page": 25
+        },
+        {
+          "source_id": "gddt",
+          "page": 26
+        }
+      ],
+      "page_count": 49,
+      "method": "Scanned all indexed page texts and document article coverage; read related provisions semantically. Keyword matches are navigation evidence, not the sole basis for absence.",
+      "absence_reason": "Điều 40 nêu yêu cầu đăng ký và giao Chính phủ quy định chi tiết; corpus không có mẫu đơn hoặc danh mục hồ sơ thực hiện thủ tục.",
+      "keyword_scan": [
+        {
+          "term": "mẫu đơn",
+          "matching_pages": []
+        },
+        {
+          "term": "hồ sơ",
+          "matching_pages": [
+            {
+              "source_id": "gddt",
+              "page": 6
+            },
+            {
+              "source_id": "gddt",
+              "page": 14
+            },
+            {
+              "source_id": "gddt",
+              "page": 15
+            },
+            {
+              "source_id": "gddt",
+              "page": 26
+            }
+          ]
+        },
+        {
+          "term": "biểu mẫu",
+          "matching_pages": [
+            {
+              "source_id": "gddt",
+              "page": 15
+            }
+          ]
+        },
+        {
+          "term": "đăng ký",
+          "matching_pages": [
+            {
+              "source_id": "gddt",
+              "page": 13
+            },
+            {
+              "source_id": "gddt",
+              "page": 14
+            },
+            {
+              "source_id": "gddt",
+              "page": 15
+            },
+            {
+              "source_id": "gddt",
+              "page": 26
+            },
+            {
+              "source_id": "dulieu",
+              "page": 21
+            }
+          ]
+        }
+      ],
+      "related_pages_reviewed": [
+        {
+          "source_id": "dulieu",
+          "page": 21,
+          "text": "2. Dịch vụ xác thực điện tử thực hiện việc xác thực dữ liệu trong các cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành, hệ thống định danh và xác thực điện tử do đơn vị sự nghiệp công lập, doanh nghiệp nhà nước đáp ứng điều kiện cung cấp dịch vụ.\n\n3. Tổ chức cung cấp sản phẩm, dị ch vụ trung gian dữ liệu, phân tích, tổng hợp dữ liệu được hưởng ưu đãi như các doanh nghiệp hoạt động trong lĩnh vực công nghệ cao, đổi mới sáng tạo, khởi nghiệp sáng tạo, công nghiệp công nghệ số.\n\n4. Các sản phẩm, dịch vụ khác về dữ liệu trong hoạt động giao d ịch điện tử, viễn thông, an ninh mạng, an toàn thông tin mạng, công nghiệp c ông nghệ số, cơ yếu, công nghiệp quốc phòng, an ninh và động viên công nghiệp t hực hiện theo quy định của pháp luật có liên quan.\n\n5. Chính phủ quy định chi tiết Điều này.\n\nĐiều 40. Sản phẩm, dịch vụ trung gian dữ liệu\n\n1. Sản phẩm, dịch vụ trung gian dữ liệu là sản phẩm, dịch vụ nhằm thiết lập mối quan hệ thương mại giữa chủ thể dữ liệu, chủ sở hữu dữ liệu và bên sử dụng sản phẩm, dịch vụ, thông qua thỏa thuận nhằm mục đích trao đổi, chi a sẻ, truy cập dữ liệu, thực hiện các quyền của chủ thể dữ liệu, chủ sở hữu dữ liệu, người dùng dữ liệu.\n\n2. Tổ chức cung cấp sản phẩm, dịch vụ trung gian dữ liệu phải đ ược đăng ký hoạt động và quản lý the o quy định của pháp luật về đầu tư; trừ trường hợp cung cấp sản phẩm, dịch vụ trung gian dữ liệu trong nội bộ tổ chức.\n\n3. Chính phủ quy định chi tiết Điều này.\n\nĐiều 41. Sản phẩm, dịch vụ phân tích, tổng hợp dữ liệu\n\n1. Sản phẩm phân tích, tổng hợp d ữ liệu là kết quả của quá trìn h phân tích, tổng hợp dữ liệu thành thông tin chuyên sâu hữu ích ở các cấp đ ộ khác nhau theo yêu cầu của bên sử dụng sản phẩm. Dịch vụ phân tích, tổng hợp d ữ liệu là hoạt động phân tích, tổng hợp dữ liệu theo yêu cầu của bên sử dụng dịch vụ.\n\n2. Tổ chức kinh doanh sản phẩm, dịch vụ phân tích, tổng hợp dữ liệu có thể gây nguy hại đến quốc phòng, an ni nh quốc gia, trật tự, an toàn xã hội, đạo đức xã hội, sức khỏe của cộng đồng phả i đăng ký hoạt động, quản lý the o quy định của pháp luật về đầu tư. Trường hợp có kết nối, chia sẻ với cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành để kinh doanh sản phẩm, dịch vụ phân tích, tổng hợp dữ liệu phải được quản lý theo quy định của pháp luật.\n\n3. Chính phủ quy định chi tiết Điều này."
+        },
+        {
+          "source_id": "gddt",
+          "page": 14,
+          "text": "tổ chức cung cấp dịch vụ chứng thực chữ ký điện tử nước ngoài tại Việt Nam ; công nhận chữ ký điện tử nước ngoài, chứng thư chữ ký điện tử nước ngoài tại Việt Nam.\n\nĐiều 27. Chữ ký điện tử nước ngoài, c hứng thư chữ ký điện tử nước ngoài được chấp nhận trong giao dịch quốc tế\n\n1. Chữ ký điện tử nước ngoài, chứng thư chữ ký điện tử nước ngoài được chấp nhận trong giao dịch quốc tế là chữ ký điện tử nước ngoài, chứng thư chữ ký điện tử nước ngoài của tổ chức, cá nhân nước ngoài không hiện diện tại Việt Nam, có hiệu lực trên thông điệp dữ liệu gửi đến tổ chức, cá nhân Việt Nam.\n\n2. Tổ chức, cá nhân lựa chọn và chịu trách nhiệm về việc chấp nhận chữ ký điện tử nước ngoài, chứng thư chữ ký điện tử nước ngoài trên thông điệp dữ liệu trong giao dịch quốc tế.\n\nMục 2 DỊCH VỤ TIN CẬY\n\nĐiều 28. Dịch vụ tin cậy\n\n1. Dịch vụ tin cậy bao gồm:\n\na) Dịch vụ cấp dấu thời gian;\n\nb) Dịch vụ chứng thực thông điệp dữ liệu;\n\nc) Dịch vụ chứng thực chữ ký số công cộng.\n\n2. Dịch vụ tin cậy là ngành, nghề đầu tư kinh doanh có điều kiện.\n\n3. Tổ chức cung cấp dịch vụ tin cậy phải có giấy phép kinh doanh dịch vụ do Bộ Thông tin và Truyền thông cấp, trừ dịch vụ chứng thực hợp đồng điện tử trong thương mại. Tổ chức được quyền đăng ký một hoặc các dịch vụ quy định tại khoản 1 Điều này. Thời hạn của giấy phép kinh doanh dịch vụ tin cậy là 10 năm. Tổ chức cung cấp dịch vụ chứng thực hợp đồng điện tử trong thương mại phải đáp ứng điều kiện hoạt động cung cấp dịch vụ chứng thực hợp đồng điện tử theo quy định của pháp luật về thương mại điện tử và điều kiện kinh doanh dịch vụ tin cậy theo quy định tại Điều 29 của Luật này.\n\n4. Chính phủ quy định chi tiết hoạt động của tổ chức cung cấp dịch vụ tin cậy; quy trình, thủ tục, hồ sơ cấp, gia hạn, thay đổi, cấp lại, tạm đình chỉ, thu hồi giấy phép kinh doanh dịch vụ tin cậy và các nội dung khác quy định tại Điều này.\n\nĐiều 29. Điều kiện kinh doanh dịch vụ tin cậy\n\n1. Điều kiện kinh doanh dịch vụ tin cậy bao gồm:\n\na) Là doanh nghiệp được thành lập và hoạt động hợp pháp trên lãnh thổ Việt Nam;\n\nb) Đáp ứng điều kiện tài chính, nhân lực quản lý và kỹ thuật phù hợp với từng loại dịch vụ tin cậy quy định tại khoản 1 Điều 28 của Luật này;"
+        },
+        {
+          "source_id": "gddt",
+          "page": 15,
+          "text": "c) Hệ thống thông tin cung cấp dịch vụ tin cậy đáp ứng yêu cầu bảo đảm an ninh mạng7 tối thiểu cấp độ 3 theo quy định của pháp luật về an toàn thông tin mạng;\n\nd) Có phương án kỹ thuật phục vụ hoạt động cung cấp dịch vụ phù hợp với từng loại dịch vụ tin cậy quy định tại khoản 1 Điều 28 của Luật này;\n\nđ) Có phương án sẵn sàng kết nối kỹ thuật phục vụ giám sát, kiểm tra, báo cáo số liệu bằng phương tiện điện tử đáp ứng yêu cầu quản lý nhà nước về dịch vụ tin cậy.\n\n2. Chính phủ quy định chi tiết khoản 1 Điều này.\n\nĐiều 30. Trách nhiệm của tổ chức cung cấp dịch vụ tin cậy\n\n1. Công bố công khai quy trình đăng ký sử dụng dịch vụ, biểu mẫu và chi phí liên quan.\n\n2. Bảo đảm kênh tiếp nhận thông tin và cung cấp dịch vụ liên tục 24 giờ trong ngày và 07 ngày trong tuần.\n\n3. Thực hiện chế độ lưu trữ hồ sơ, tài liệu và kết nối, cung cấp thông tin, số liệu báo cáo bằng phương tiện điện tử theo quy định của pháp luật.\n\n4. Bảo đảm trang thiết bị trong hệ thống thông tin được cấp mã quản lý, sẵn sàng kết nối kỹ thuật phục vụ công tác quản lý nhà nước về dịch vụ tin cậy.\n\n5. Thực hiện biện pháp nghiệp vụ, tạm dừng, chấm dứt cung cấp dịch vụ hoặc biện pháp nghiệp vụ khác theo yêu cầu của cơ quan có thẩm quyền theo quy định của pháp luật.\n\n6. Thực hiện trách nhiệm của chủ quản hệ thống thông tin phục vụ cung cấp dịch vụ tin cậy đáp ứng yêu cầu bảo đảm an ninh mạng8 tối thiểu cấp độ 3 theo quy định của pháp luật về an toàn thông tin mạng.\n\n7. Định kỳ hằng năm , báo cáo về hoạt động cung cấp dịch vụ tin cậy theo quy định của cơ quan có thẩm quyền.\n\n8. Nộp phí dịch vụ duy trì hệ thống kiểm tra trạng thái chứng thư chữ ký số theo quy định của pháp luật về phí và lệ phí.\n\nĐiều 31. Dịch vụ cấp dấu thời gian\n\n1. Dịch vụ cấp dấu thời gian là dịch vụ để gắn thông tin về thời gian vào thông điệp dữ liệu.\n\n2. Dấu thời gian được tạo ra dưới dạng chữ ký số.\n\n7 Cụm từ “an toàn thông tin mạng” được thay thế bằng cụm từ “an ninh mạng” theo quy định tại điểm c khoản 8 Điều 43 của Luật An ninh mạng số 116/2025/QH15, có hiệu lực kể từ ngày 01 tháng 7 năm 2026. 8 Cụm từ “an toàn thông tin mạng” được thay thế bằng cụm từ “an ninh mạng” theo quy định tại điểm c khoản 8 Điều 43 của Luật An ninh mạng số 116/2025/QH15, có hiệu lực kể từ ngày 01 tháng 7 năm 2026."
+        }
+      ],
+      "excluded_scope": "gddt physical page 27 has no extracted text and is not indexed; no claim about external decrees, live registries or non-indexed images."
+    }
+  ]
+}

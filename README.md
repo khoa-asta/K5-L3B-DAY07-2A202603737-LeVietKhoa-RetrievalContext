@@ -2,6 +2,10 @@
 
 **Bài cá nhân · Python 3.11+ · tiếp nối Day 6**
 
+## Demo web local
+
+Chạy `& .\.venv\Scripts\python.exe -B -m demo.server`, rồi mở **http://127.0.0.1:8765**. Giao diện có retrieval cơ bản, filter/top-k/context/trace, so sánh tách từ, benchmark đã lưu và tìm nội dung PDF IPCC. Model chạy từng tiến trình riêng theo cấu hình nhẹ; không cần cài thêm framework web. Xem [hướng dẫn demo cơ bản và Advanced](docs/DEMO_WEB.md), [báo cáo cá nhân](report/individual/2A202603737_LeVietKhoa.md). Dense/agent IPCC cần hoàn tất index; UI hiển thị đúng tiến độ, không tạo kết quả giả.
+
 Dùng embedding và vector store từ Day 6 để xây một agent biết tìm bằng chứng, trả lời có nguồn và nhận biết khi không đủ thông tin. Bạn tự chọn kiến trúc, số tool và cách tổ chức retrieval.
 
 > **Tùy chọn:** [Gợi ý dùng AI để lập trình](AGENT_SETUP.md) giúp bạn làm lab; phần này không bắt buộc và không tính điểm.
@@ -30,4 +34,4 @@ Index một tài liệu thực tế từ **100 trang** có bảng, ảnh và bi�
 
 ![Các bước thử nghiệm trên dev và đánh giá trên test](assets/experiment-loop.svg)
 
-Nộp code, cách chạy, cấu hình, benchmark, trace và [báo cáo](report/individual/MSSV_HoTen.md). Thời gian ở [checkpoints](CHECKPOINTS.md) là gợi ý, có thể điều chỉnh theo lớp và phạm vi thử nghiệm.
+Nộp code, cách chạy, cấu hình, benchmark, trace và [báo cáo](report/individual/2A202603737_LeVietKhoa.md). Thời gian ở [checkpoints](CHECKPOINTS.md) là gợi ý, có thể điều chỉnh theo lớp và phạm vi thử nghiệm.

@@ -52,9 +52,10 @@ def hit(chunk, gold):
 
 
 class TfidfIndex:
-    def __init__(self, chunks):
+    def __init__(self, chunks, tokenizer=tokenize):
         self.chunks = chunks
-        counts = [Counter(tokenize(c['text'])) for c in chunks]
+        self.tokenizer = tokenizer
+        counts = [Counter(self.tokenizer(c['text'])) for c in chunks]
         df = Counter(term for row in counts for term in row)
         self.idf = {term: math.log((1 + len(chunks)) / (1 + count)) + 1 for term, count in df.items()}
         self.vectors = [self._vector(row) for row in counts]
@@ -65,7 +66,7 @@ class TfidfIndex:
         return {term: value / norm for term, value in vector.items()}
 
     def search(self, question, top_k=3):
-        query = self._vector(Counter(tokenize(question)))
+        query = self._vector(Counter(self.tokenizer(question)))
         results = []
         for chunk, vector in zip(self.chunks, self.vectors):
             score = sum(value * vector.get(term, 0) for term, value in query.items())

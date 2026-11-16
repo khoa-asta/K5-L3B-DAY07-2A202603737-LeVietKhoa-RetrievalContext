@@ -1,0 +1,19 @@
+{
+  "cpu_threads": 1,
+  "single_cpu_affinity": true,
+  "embedding_batch_size": 1,
+  "prepare_pages_per_run": 8,
+  "embedding_chunks_per_run": 16,
+  "max_work_seconds": 30,
+  "cooldown_seconds": 0.75,
+  "between_jobs_seconds": 10,
+  "min_available_ram_mb": 4096,
+  "max_process_rss_mb": 1800,
+  "llm_min_available_ram_mb": 6144,
+  "llm_max_process_rss_mb": 4608,
+  "llm_input_tokens": 1024,
+  "llm_output_tokens": 96,
+  "candidate_k": 12,
+  "top_k": 4,
+  "context_chars": 3600
+}
